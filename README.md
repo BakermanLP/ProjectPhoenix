@@ -30,11 +30,6 @@ Videos and other external material is in german language
 [The used version numbers](https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/versions.md)
 
 # FAQ
-## How can I get that Modpack ?
-* [Install the TechnicLauchner](http://www.technicpack.net/)
-* Type in the search box "ProjectRETv7"
-* Add an new pack and paste the Platform URL
-* Press play and enjoy
 
 ## Whats R.E.T. ?
 * Retired
