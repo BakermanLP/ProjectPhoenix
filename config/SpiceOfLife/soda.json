@@ -1,0 +1,14 @@
+// Mod Version: 1.2.1
+{
+	"food": {
+		"oredict": [
+			"foodSoda"
+		]
+	},
+
+	"name": "soda",
+	"enabled": true,
+	"priority": 8,
+	"blacklist": false,
+	"hidden": false
+}

@@ -1,0 +1,14 @@
+// Mod Version: 1.2.1
+{
+	"food": {
+		"oredict": [
+			"foodBurger"
+		]
+	},
+
+	"name": "Burger",
+	"enabled": true,
+	"priority": 10,
+	"blacklist": false,
+	"hidden": false
+}
