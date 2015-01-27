@@ -3,7 +3,7 @@
 ## Informations
 Here you'll find everything necessary for the ProjectRETv7Reloaded Modpack for Minecraft 1.7.10
 
-This are the reloaded version of the ProjectRETv7 Modpack
+This is the reloaded version of the ProjectRETv7 Modpack
 
 We haven't put a bunch of mods in the mods folder and that's all.
 
@@ -24,10 +24,10 @@ The design goals for this modpack:
 Videos and other external material is in german language 
 
 ## Permissions, licences and links
-[The permissions, licences, author and links](https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/licences.md)
+[The permissions, licences, author and links](https://github.com/BakermanLP/ProjectRETv7Reloaded/blob/master/licences.md)
 
 ## Used Mod Versions
-[The used version numbers](https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/versions.md)
+[The used version numbers](https://github.com/BakermanLP/ProjectRETv7Reloaded/blob/master/versions.md)
 
 # FAQ
 
