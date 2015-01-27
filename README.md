@@ -23,16 +23,14 @@ The design goals for this modpack:
 Videos and other external material is in german language 
 
 ## Permissions, licences and links
-The permissions, licences, author and links are here:
-<https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/licences.md>
+[The permissions, licences, author and links](https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/licences.md)
 
 ## Used Mod Versions
-The used version numbers are here:
-<https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/versions.md>
+[The used version numbers](https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/versions.md)
 
 # FAQ
 ## How can I get that Modpack ?
-* Install the TechnicLauchner from <http://www.technicpack.net/>
+* [Install the TechnicLauchner](http://www.technicpack.net/)
 * Type in the search box "ProjectRETv7"
 * Add an new pack and paste the Platform URL
 * Press play and enjoy
