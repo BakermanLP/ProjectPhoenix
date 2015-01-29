@@ -154,3 +154,146 @@ mods.tconstruct.Casting.addTableRecipe(<gregtech:gt.metaitem.01:11036>, <liquid:
 mods.tconstruct.Casting.addTableRecipe(<gregtech:gt.metaitem.01:11031>, <liquid:molten.manganese> * 144, <TConstruct:metalPattern>, false, 20);
 mods.tconstruct.Casting.addTableRecipe(<gregtech:gt.metaitem.01:11048>, <liquid:molten.molybdenum> * 144, <TConstruct:metalPattern>, false, 20);
 mods.tconstruct.Casting.addTableRecipe(<gregtech:gt.metaitem.01:11058>, <liquid:molten.antimony> * 144, <TConstruct:metalPattern>, false, 20);
+
+##Gregtech Recipes
+
+#Hatches
+recipes.remove(<gregtech:gt.blockmachines:50>);
+recipes.addShaped(<gregtech:gt.blockmachines:50>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:10>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:51>);
+recipes.addShaped(<gregtech:gt.blockmachines:51>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:11>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:52>);
+recipes.addShaped(<gregtech:gt.blockmachines:52>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:12>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:53>);
+recipes.addShaped(<gregtech:gt.blockmachines:53>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:13>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:54>);
+recipes.addShaped(<gregtech:gt.blockmachines:54>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:14>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:55>);
+recipes.addShaped(<gregtech:gt.blockmachines:55>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:15>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:56>);
+recipes.addShaped(<gregtech:gt.blockmachines:56>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:16>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:57>);
+recipes.addShaped(<gregtech:gt.blockmachines:57>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:17>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:58>);
+recipes.addShaped(<gregtech:gt.blockmachines:58>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:18>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:59>);
+recipes.addShaped(<gregtech:gt.blockmachines:59>, [
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [<gregtech:gt.blockmachines:19>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:60>);
+recipes.addShaped(<gregtech:gt.blockmachines:60>, [
+    [<gregtech:gt.blockmachines:10>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:61>);
+recipes.addShaped(<gregtech:gt.blockmachines:61>, [
+    [<gregtech:gt.blockmachines:11>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:62>);
+recipes.addShaped(<gregtech:gt.blockmachines:62>, [
+    [<gregtech:gt.blockmachines:12>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:63>);
+recipes.addShaped(<gregtech:gt.blockmachines:63>, [
+    [<gregtech:gt.blockmachines:13>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:64>);
+recipes.addShaped(<gregtech:gt.blockmachines:64>, [
+    [<gregtech:gt.blockmachines:14>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:65>);
+recipes.addShaped(<gregtech:gt.blockmachines:65>, [
+    [<gregtech:gt.blockmachines:15>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:66>);
+recipes.addShaped(<gregtech:gt.blockmachines:66>, [
+    [<gregtech:gt.blockmachines:16>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:67>);
+recipes.addShaped(<gregtech:gt.blockmachines:67>, [
+    [<gregtech:gt.blockmachines:17>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:68>);
+recipes.addShaped(<gregtech:gt.blockmachines:68>, [
+    [<gregtech:gt.blockmachines:18>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
+
+recipes.remove(<gregtech:gt.blockmachines:69>);
+recipes.addShaped(<gregtech:gt.blockmachines:69>, [
+    [<gregtech:gt.blockmachines:19>, null, null],
+    [<BuildCraft|Factory:tankBlock>, null, null],
+    [null, null, null,]
+]);
