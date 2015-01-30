@@ -21,6 +21,10 @@ recipes.addShaped(<MineFactoryReloaded:plastic>, [
     [<ore:platePlastic>, <ore:platePlastic>, <ore:platePlastic>]
 ]);
 
+#Remove RedNet Energy Cable
+recipes.remove(<MineFactoryReloaded:cable.redstone:2>);
+recipes.remove(<MineFactoryReloaded:cable.redstone:3>);
+
 #------------------
 # Laser
 #------------------
