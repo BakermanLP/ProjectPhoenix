@@ -1,3 +1,7 @@
+## forge
+forge-1.7.10-10.13.2.1291
+
+## mods
 * ae2stuff-mc1710-0.1.2.7.jar
 * AOBD-2.4.0.jar
 * AppleCore-mc1.7.10-1.1.0.jar
@@ -91,8 +95,6 @@
 * roguelike-1.7.10-1.3.5.jar
 * RPGAdvMod-1.0.0_1.7.10.jar
 * Ruins-1.7.10.jar
-* ruins_log.txt
-* ruins.txt
 * SimplyJetpacks-MC1.7.10-1.3.2.jar
 * SpiceOfLife-mc1.7.10-1.2.3.jar
 * StevesAddons-1.7.10-0.7.0.jar
