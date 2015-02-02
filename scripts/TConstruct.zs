@@ -142,3 +142,5 @@ for i, stick in sticks {
 mods.tconstruct.Casting.addTableRecipe(<minecraft:glass_bottle>, <liquid:glass.molten> * 1000, <IguanaTweaksTConstruct:clayBucketUnfired>, true, 20);
 mods.tconstruct.Casting.addTableRecipe(<minecraft:glass_bottle>, <liquid:glass.molten> * 1000, <gregtech:gt.metaitem.01:32305>, false, 20);
 
+recipes.remove(<TConstruct:materials:6>);
+recipes.addShapeless(<TConstruct:materials:6> * 1, [<ore:stoneMossy>, <ore:stoneMossy>, <ore:stoneMossy>, <ore:stoneMossy>]);
