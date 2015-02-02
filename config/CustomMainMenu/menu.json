@@ -1,0 +1,271 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "retv7_reloaded:textures/title1.png",
+            "posX" : -210,
+            "posY" : 10,
+            "width" : 420,
+            "height" : 60,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "",
+            "posX" : -230,
+            "posY" : 33,
+            "width" : 180,
+            "height" : 55,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            },
+			
+			"texture" : "retv7_reloaded:textures/singleplayer.png",
+			"imageWidth" : 359,
+			"imageHeight" : 109
+			
+        },
+        
+        "multiplayer":
+        {
+            "text" : "",
+            "posX" : -230,
+            "posY" : 66,
+            "width" : 180,
+            "height" : 55,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            },
+			
+			"texture" : "retv7_reloaded:textures/multiplayer.png",
+			"imageWidth" : 345,
+			"imageHeight" : 109
+        },
+
+        "communityserver":
+        {
+            "text" : "",
+            "posX" : -230,
+            "posY" : 165,
+            "width" : 180,
+            "height" : 55,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "minecraft.projectret.de"
+            },
+			
+			"texture" : "retv7_reloaded:textures/multiplayer.png",
+			"imageWidth" : 345,
+			"imageHeight" : 109
+        },
+        
+        "mods":
+        {
+            "text" : "",
+            "posX" : -230,
+            "posY" : 99,
+            "width" : 96,
+            "height" : 47,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            },
+			"texture" : "retv7_reloaded:textures/mods.png",
+			"imageWidth" : 192,
+			"imageHeight" : 95
+        },
+            
+        "options":
+        {
+            "text" : "",
+            "posX" : -230,
+            "posY" : 132,
+            "width" : 124,
+            "height" : 55,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            },
+			"texture" : "retv7_reloaded:textures/options.png",
+			"imageWidth" : 248,
+			"imageHeight" : 109
+        },
+
+	"forum":
+        {
+            "text" : "",
+            "posX" : 90,
+            "posY" : 99,
+            "width" : 110,
+            "height" : 47,
+            "texture" : "retv7_reloaded:textures/forum.png",
+			"imageWidth" : 220,
+			"imageHeight" : 95,
+            "action" : 
+            {
+                "type" : "openLink",
+                                "link" : "http://www.projectret.de/forum"
+            }
+            
+        },
+	"Bug Tracker":
+        {
+            "text" : "",
+            "posX" : 90,
+            "posY" : 132,
+            "width" : 185,
+            "height" : 47,
+            "texture" : "retv7_reloaded:textures/bugtracker.png",
+			"imageWidth" : 371,
+			"imageHeight" : 109,
+            "action" : 
+            {
+                "type" : "openLink",
+                                "link" : "https://github.com/BakermanLP/ProjectRETv7Reloaded/issues"
+            }
+            
+        },
+	"Changelog":
+        {
+            "text" : "",
+            "posX" : 90,
+            "posY" : 165,
+            "width" : 152,
+            "height" : 54,
+            "texture" : "retv7_reloaded:textures/changelog.png",
+			"imageWidth" : 304,
+			"imageHeight" : 109,
+            "action" : 
+            {
+                "type" : "openLink",
+                                "link" : "https://raw.githubusercontent.com/BakermanLP/ModpackProjectRETv7/master/Changelog.txt"
+            }
+            
+        },
+        
+        "quit":
+        {
+            "text" : "",
+            "posX" : 90,
+            "posY" : 198,
+            "width" : 82,
+            "height" : 47,
+            "action" : 
+            {
+                "type" : "quit"
+            },
+			"texture" : "retv7_reloaded:textures/exit.png",
+			"imageWidth" : 164,
+			"imageHeight" : 95
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -40,
+            "posY" : 270,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 40,
+            "posY" : 270,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+
+
+        "openeye":
+        {
+            "text" : "",
+            "texture" : "openeye:assets/openeye/textures/gui/buttons.png",
+            "posX" : 0,
+            "posY" : 270,
+            "width" : 20,
+            "height" : 20,
+            "wrappedButton" : 666,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "openeye"
+            }
+
+        }
+
+    },
+    "texts": {
+        "mojang": {
+            "text": "",
+            "posX": -205,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_right"
+        },
+        "packName": {
+            "text": "§4Project Phoenix §eAlpha 03",
+            "posX": 2,
+            "posY": -20,
+            "color": -1,
+            "alignment": "bottom_left"
+        },
+        "packAuthor": {
+            "text": "§wBy Community and BakermanLP",
+            "posX": 2,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_left"
+        }
+    },    
+    
+    "other":
+    {
+	"splash-text":
+        {
+            "posX" : 110,
+            "posY" : 90,
+            "color" : -256,
+            "alignment" : "top_center"
+        },
+	"background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : [
+                    "retv7_reloaded:textures/background1.png",
+                    "retv7_reloaded:textures/background2.png",
+                    "retv7_reloaded:textures/background3.png",
+                    "retv7_reloaded:textures/background4.png"
+                           ],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+            }
+        }
+    }
+}
