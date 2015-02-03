@@ -202,7 +202,6 @@ var oreCrushedSalt = <gregtech:gt.metaitem.01:5817>;
 var itemRockSalt = <gregtech:gt.metaitem.01:2944>;
 var dustStone = <gregtech:gt.metaitem.01:2299>;
 mods.ic2.Macerator.addRecipe(oreCrushedSalt * 16, oreSalt);
-mods.railcraft.RockCrusher.addRecipe(oreSalt, false, false, [oreCrushedSalt * 16, itemRockSalt, dustStone * 2], [1, 0.4, 1]);
 mods.gregtech.ForgeHammer.addRecipe(oreCrushedSalt * 8, oreSalt, 16, 10);
 
 # Milk
