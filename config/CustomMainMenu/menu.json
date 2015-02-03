@@ -1,16 +1,6 @@
 {
     "images":
-    {
-        "title":
-        {
-            "image" : "projectphoenix:title.png",
-            "posX" : -150,
-            "posY" : 10,
-            "width" : 400,
-            "height" : 200,
-            "alignment" : "top_center"
-        },
-        
+    {        
         "black":
         {
             "image" : "projectphoenix:blacktransparent.png",
@@ -65,24 +55,6 @@
             "alignment" : "left_center"
         },
            
-        "options":
-        {
-            "text" : "",
-            "posX" : 53,
-            "posY" : -45,
-            "width" : 20,
-            "height" : 20,
-            "imageWidth" : 20,
-            "imageHeight" : 20,
-            "alignment" : "bottom_left",
-            "texture" : "projectphoenix:menu/p_settings.png",
-            "action" :
-            {
-                "type" : "openGui",
-                "gui" : "options"
-            }
-        },
-       
         "quit":
         {
             "text" : "",
@@ -93,23 +65,14 @@
             "imageWidth" : 20,
             "imageHeight" : 20,
             "alignment" : "bottom_left",
+            "tooltip" : "Quit",
             "texture" : "projectphoenix:menu/p_quit.png",
             "action" :
             {
                 "type" : "quit"
             }
         },
-       
-        "language":
-        {
-            "text" : "",
-            "posX" : 78,
-            "posY" : -45,
-            "width" : 20,
-            "height" : 20,
-            "alignment" : "bottom_left"
-        },
-       
+                     
         "refresh":
         {
             "text" : "",
@@ -120,12 +83,48 @@
             "imageWidth" : 20,
             "imageHeight" : 20,
             "alignment" : "bottom_left",
+            "tooltip" : "Refresh",
             "texture" : "projectphoenix:menu/p_reload.png",
             "action" :
             {
                 "type" : "refresh"
             }
-        }
+        },
+               
+        "language":
+        {
+            "text" : "",
+            "posX" : 78,
+            "posY" : -45,
+	    "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left",
+            "tooltip" : "Language",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+	"options":
+        {
+            "text" : "",
+            "posX" : 53,
+            "posY" : -45,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth" : 20,
+            "imageHeight" : 20,
+            "alignment" : "bottom_left",
+            "tooltip" : "Options",
+            "texture" : "projectphoenix:menu/p_settings.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        }        
     },
     "texts": {
         "mojang": {
@@ -155,10 +154,10 @@
     {
 	"splash-text":
         {
-            "posX" : 110,
-            "posY" : 90,
+            "posX" : -180,
+            "posY" : 100,
             "color" : -256,
-            "alignment" : "top_center"
+            "alignment" : "top_right"
         },
 	"background":
         {
@@ -168,8 +167,7 @@
                 "images" : [
                     "projectphoenix:background1.png",
                     "projectphoenix:background2.png",
-                    "projectphoenix:background3.png",
-                    "projectphoenix:background4.png"
+                    "projectphoenix:background3.png"
                            ],
                 "displayDuration" : 100,
                 "fadeDuration" : 40
