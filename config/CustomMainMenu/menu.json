@@ -9,8 +9,16 @@
             "width" : 100,
             "height" : 2000,
             "alignment" : "top_left"
+        },
+        "title":
+        {
+            "image" : "projectphoenix:title1.png",
+            "posX" : -200,
+            "posY" : 10,
+            "width" : 400,
+            "height" : 123,
+            "alignment" : "top_center"
         }
-        
     },
     
     "buttons":
@@ -19,7 +27,7 @@
         {
             "text" : "menu.singleplayer",
             "posX" : 55,
-            "posY" : -35,
+            "posY" : -50,
             "width" : 90,
             "height" : 20,
             "alignment" : "left_center",
@@ -34,7 +42,7 @@
         {
             "text" : "menu.multiplayer",
             "posX" : 55,
-            "posY" : -10,
+            "posY" : -25,
             "width" : 90,
             "height" : 20,
             "alignment" : "left_center",
@@ -49,34 +57,36 @@
         {
             "text" : "Forum",
             "posX" : 55,
-            "posY" : 15,
+            "posY" : 0,
             "width" : 90,
             "height" : 20,
-            "alignment" : "left_center"
-        },
-           
-        "quit":
-        {
-            "text" : "",
-            "posX" : 128,
-            "posY" : -45,
-            "width" : 20,
-            "height" : 20,
-            "imageWidth" : 20,
-            "imageHeight" : 20,
-            "alignment" : "bottom_left",
-            "tooltip" : "Quit",
-            "texture" : "projectphoenix:menu/p_quit.png",
+            "alignment" : "left_center",
             "action" :
             {
-                "type" : "quit"
+                "type" : "openLink",
+                "link" : "http://www.projectret.de/forum"
+            }
+        },
+
+        "bugtracker":
+        {
+            "text" : "Bugtracker",
+            "posX" : 55,
+            "posY" : 25,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/BakermanLP/ProjectRETv7Reloaded/issues"
             }
         },
                      
         "refresh":
         {
             "text" : "",
-            "posX" : 103,
+            "posX" : 0,
             "posY" : -45,
             "width" : 20,
             "height" : 20,
@@ -90,24 +100,8 @@
                 "type" : "refresh"
             }
         },
-               
-        "language":
-        {
-            "text" : "",
-            "posX" : 78,
-            "posY" : -45,
-	    "width" : 20,
-            "height" : 20,
-            "alignment" : "bottom_left",
-            "tooltip" : "Language",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
         
-	"options":
+        "options":
         {
             "text" : "",
             "posX" : 53,
@@ -123,6 +117,40 @@
             {
                 "type" : "openGui",
                 "gui" : "options"
+            }
+        },
+               
+        "language":
+        {
+            "text" : "",
+            "posX" : 90,
+            "posY" : -45,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left",
+            "tooltip" : "Language",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "",
+            "posX" : 128,
+            "posY" : -45,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth" : 20,
+            "imageHeight" : 20,
+            "alignment" : "bottom_left",
+            "tooltip" : "Quit",
+            "texture" : "projectphoenix:menu/p_quit.png",
+            "action" :
+            {
+                "type" : "quit"
             }
         }        
     },
@@ -155,7 +183,7 @@
 	"splash-text":
         {
             "posX" : -180,
-            "posY" : 100,
+            "posY" : 200,
             "color" : -256,
             "alignment" : "top_right"
         },
