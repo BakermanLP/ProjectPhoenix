@@ -1,7 +1,8 @@
-## forge
+## Forge
 * forge-1.7.10-10.13.2.1291
 
-## mods
+## Mods
+* 1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar
 * ae2stuff-mc1710-0.1.2.7.jar
 * AOBD-2.4.0.jar
 * AppleCore-mc1.7.10-1.1.0.jar
@@ -11,10 +12,10 @@
 * bdlib-mc1710-1.6.0.36.jar
 * BiblioCraft[v1.9.2][MC1.7.10].jar
 * BloodMagic-1.7.10-1.3.0b-3.jar
-* Botania r1.3-153.jar
-* buildcraft-6.3.3.jar
+* Botania r1.4-155.jar
+* buildcraft-6.3.4.jar
 * buildcraft-compat-6.3.1.jar
-* Carpenter's Blocks v3.3.4.2 - MC 1.7.10.jar
+* Carpenter's Blocks v3.3.5 - MC 1.7.10.jar
 * Chisel2-2.3.5.31.jar
 * CodeChickenCore-1.7.10-1.0.4.35-universal.jar
 * CoFHCore-[1.7.10]3.0.0B9-56.jar
@@ -25,7 +26,7 @@
 * coroutil-1.1.2 for MC v1.7.10.jar
 * CustomMainMenu-MC1.7.10-1.1.jar
 * DynIMC-1.7.10-1.1.0.5-universal.jar
-* ElectricalAge_BETA-1.9_r43.jar
+* ElectricalAge_BETA-1.9_r45_retedition.jar
 * Enchiridion-1.7.X-1.2b.jar
 * EnderIO-1.7.10-2.2.6.317.jar
 * EnderStorage-1.7.10-1.4.5.27-universal.jar
@@ -33,7 +34,7 @@
 * EnhancedPortals_1.7.10-universal-3.0.10.jar
 * ExtraCells-1.7.10-2.2.49b75.jar
 * extrautilities-1.2.1.jar
-* fastcraft-1.16.jar
+* fastcraft-1.19.jar
 * forestry_1.7.10-3.4.0.7.jar
 * funky-locomotion-1.7.10-beta-4.jar
 * GalacticGreg-0.5.jar
@@ -53,13 +54,13 @@
 * HungerOverhaul-1.7.10-beta.6.jenkins51.jar
 * IC2NuclearControl-2.1.2a.jar
 * IguanaTinkerTweaks-1.7.10-2.1.2.103.jar
-* industrialcraft-2-2.2.667-experimental.jar
+* industrialcraft-2-2.2.668-experimental.jar
 * InGameInfoXML-1.7.10-2.8.1.73-universal.jar
 * INpureCore-[1.7.10]1.0.0B8-49.jar
 * InventoryTweaks-1.59-dev-156.jar
 * ironchest-1.7.10-6.0.62.742-universal.jar
 * Jabba-1.2.0a_1.7.10.jar
-* logisticspipes-0.8.3.95.jar
+* logisticspipes-0.8.3.98.jar
 * LunatriusCore-1.7.10-1.1.2.21-universal.jar
 * malisiscore-1.7.10-0.10.5.jar
 * malisisdoors-1.7.10-1.4.3.jar
@@ -72,7 +73,6 @@
 * MmmMmmMmmMmm-1.6.jar
 * MobiusCore-1.2.3_1.7.10.jar
 * ModTweaker-1.7.X-0.6-22.jar
-* ModularForcefieldSystem-1.7.10-3.0-ALPHA-7.jar
 * natura-1.7.10-98.6a6cca1.jar
 * neiaddons-mc1710-1.12.3.13.jar
 * NEIIntegration-MC1.7.10-1.0.5.jar
@@ -81,9 +81,10 @@
 * NotEnoughResources-1.7.10-0.1.0.84.jar
 * ObsidiPlates-1.7.10-universal-3.0.0.18.jar
 * OpenBlocks-1.7.10-1.3-snapshot-544.jar
-* OpenComputers-MC1.7.10-1.4.6.30-universal.jar
+* OpenComputers-MC1.7.10-1.4.7a.32-universal.jar
 * OpenEye-0.6-1.7.10-snapshot-141.jar
 * OpenModsLib-1.7.10-0.6-snapshot-294.jar
+* OpenModularTurrets-1.7.10-1.3.4-27.jar
 * Opis-1.2.3_1.7.10.jar
 * Pam's HarvestCraft 1.7.10f.jar
 * PneumaticCraft-1.7.10-1.5.4-56-universal.jar
@@ -110,6 +111,7 @@
 * ThermalExpansion-[1.7.10]4.0.0B8-23.jar
 * ThermalFoundation-[1.7.10]1.0.0RC1-15.jar
 * TiCTooltips-mc1.7.10-1.2.1.jar
+* TinkersDefense-1.0.jar
 * TMechworks-1.7.10-0.2.11.89.jar
 * TSteelworks-1.7.10-1.0.7.jar
 * ttCore-MC1.7.10-0.1.0-60.jar

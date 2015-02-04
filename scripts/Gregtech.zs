@@ -297,3 +297,13 @@ recipes.addShaped(<gregtech:gt.blockmachines:69>, [
     [<BuildCraft|Factory:tankBlock>, null, null],
     [null, null, null,]
 ]);
+
+# Dough
+var dough = <gregtech:gt.metaitem.02:32559>;
+var flour = <ore:dustWheat>;
+
+recipes.remove(dough);
+
+recipes.addShapeless(dough, [<IguanaTweaksTConstruct:clayBucketWater>, flour]);
+recipes.addShapeless(dough, [<harvestcraft:freshwaterItem>, flour]);
+recipes.addShapeless(dough, [<minecraft:water_bucket>, flour]);

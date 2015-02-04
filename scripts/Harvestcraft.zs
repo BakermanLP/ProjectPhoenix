@@ -220,6 +220,16 @@ recipes.addShapeless(milkFresh * 4, [florbMilk]);
 recipes.addShapeless(milkFresh * 4, [bottleMilk]);
 recipes.addShapeless(milkFresh * 1, [bottleGregMilk]);
 
+# Water
+var waterFresh = <harvestcraft:freshwaterItem>;
+var bucketWater = <minecraft:water_bucket>;
+var clayBucketWater = <IguanaTweaksTConstruct:clayBucketWater>;
+
+recipes.remove(waterFresh);
+
+recipes.addShapeless(waterFresh * 4, [bucketWater]);
+recipes.addShapeless(waterFresh * 4, [clayBucketWater]);
+
 # Flour
 var flour = <ore:dustWheat>;
 flour.add(<harvestcraft:flourItem>);
