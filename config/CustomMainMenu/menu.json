@@ -1,0 +1,205 @@
+{
+    "images":
+    {        
+        "black":
+        {
+            "image" : "projectphoenix:blacktransparent.png",
+            "posX" : 50,
+            "posY" : 0,
+            "width" : 100,
+            "height" : 2000,
+            "alignment" : "top_left"
+        },
+        "title":
+        {
+            "image" : "projectphoenix:title1.png",
+            "posX" : -200,
+            "posY" : 10,
+            "width" : 400,
+            "height" : 123,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 55,
+            "posY" : -50,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+       
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 55,
+            "posY" : -25,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+       
+        "forum":
+        {
+            "text" : "Forum",
+            "posX" : 55,
+            "posY" : 0,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "http://www.projectret.de/forum"
+            }
+        },
+
+        "bugtracker":
+        {
+            "text" : "Bugtracker",
+            "posX" : 55,
+            "posY" : 25,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/BakermanLP/ProjectRETv7Reloaded/issues"
+            }
+        },
+                     
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 0,
+            "posY" : -45,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth" : 20,
+            "imageHeight" : 20,
+            "alignment" : "bottom_left",
+            "tooltip" : "Refresh",
+            "texture" : "projectphoenix:menu/p_reload.png",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        },
+        
+        "options":
+        {
+            "text" : "",
+            "posX" : 53,
+            "posY" : -45,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth" : 20,
+            "imageHeight" : 20,
+            "alignment" : "bottom_left",
+            "tooltip" : "Options",
+            "texture" : "projectphoenix:menu/p_settings.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+               
+        "language":
+        {
+            "text" : "",
+            "posX" : 90,
+            "posY" : -45,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left",
+            "tooltip" : "Language",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "",
+            "posX" : 128,
+            "posY" : -45,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth" : 20,
+            "imageHeight" : 20,
+            "alignment" : "bottom_left",
+            "tooltip" : "Quit",
+            "texture" : "projectphoenix:menu/p_quit.png",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        }        
+    },
+    "texts": {
+        "mojang": {
+            "text": "",
+            "posX": -205,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_right"
+        },
+        "packName": {
+            "text": "§4Project Phoenix §eAlpha 03",
+            "posX": 2,
+            "posY": -20,
+            "color": -1,
+            "alignment": "bottom_left"
+        },
+        "packAuthor": {
+            "text": "§wBy Community and BakermanLP",
+            "posX": 2,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_left"
+        }
+    },    
+    
+    "other":
+    {
+	"splash-text":
+        {
+            "posX" : -180,
+            "posY" : 200,
+            "color" : -256,
+            "alignment" : "top_right"
+        },
+	"background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : [
+                    "projectphoenix:background1.png",
+                    "projectphoenix:background2.png",
+                    "projectphoenix:background3.png"
+                           ],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+            }
+        }
+    }
+}
