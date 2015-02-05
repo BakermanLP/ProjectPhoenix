@@ -1,7 +1,6 @@
-## Forge
+## forge
 * forge-1.7.10-10.13.2.1263-universal.jar
-
-## Mods
+## mods
 * 1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar
 * ae2stuff-mc1710-0.1.2.7.jar
 * AOBD-2.4.0.jar

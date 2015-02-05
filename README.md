@@ -1,7 +1,7 @@
 # ProjectPhoenix Modpack for Minecraft 1.7.10
 
 ## Informations
-Here you'll find everything necessary for the ProjectRETv7Reloaded Modpack for Minecraft 1.7.10
+Here you'll find everything necessary for the ProjectPhoenix Modpack for Minecraft 1.7.10
 
 This is the reloaded version of the ProjectRETv7 Modpack
 
