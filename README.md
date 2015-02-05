@@ -1,4 +1,4 @@
-# ProjectRETv7Reloaded Modpack for Minecraft 1.7.10
+# ProjectPhoenix Modpack for Minecraft 1.7.10
 
 ## Informations
 Here you'll find everything necessary for the ProjectRETv7Reloaded Modpack for Minecraft 1.7.10
@@ -24,14 +24,7 @@ The design goals for this modpack:
 Videos and other external material is in german language 
 
 ## Permissions, licences and links
-[The permissions, licences, author and links](https://github.com/BakermanLP/ProjectRETv7Reloaded/blob/master/licences.md)
+[The permissions, licences, author and links](https://github.com/BakermanLP/ProjectPhoenix/blob/master/licences.md)
 
 ## Used Mod Versions
-[The used version numbers](https://github.com/BakermanLP/ProjectRETv7Reloaded/blob/master/versions.md)
-
-# FAQ
-
-## Whats R.E.T. ?
-* Retired
-* Extremly
-* Technically
+[The used version numbers](https://github.com/BakermanLP/ProjectPhoenix/blob/master/versions.md)
