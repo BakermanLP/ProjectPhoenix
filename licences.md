@@ -45,7 +45,7 @@ Yes this means you have permission to add it to any public or private mod pack w
 
 ## Bibliocraft, BiblioWoods-Forestry
 * Author: Nuchaz
-* Licence: As long as you provide proper credit to me for my work(s) and have a link back to www.bibliocraftmod.com,  you can use my mod(s) in your mod pack
+* License: As long as you provide proper credit to me for my work(s) and have a link back to www.bibliocraftmod.com,  you can use my mod(s) in your mod pack
 * Source URL: <http://www.bibliocraftmod.com/?page_id=57#modpacks>
 
 ## Buildcraft
@@ -75,15 +75,30 @@ The main restriction is that sources must be accessible. If you are only redistr
 * License: This is the Internet. Even if you dont like us (we still like you, really) for some reason, we cant (and wouldnt) stop you and maintain any semblance of a moral high ground, so have fun. Permission granted. This was made to be played, after all.
 * Source URL: http://www.teamcofh.com/index.php?page=license
 
+## CompactMachines
+* Author: thraawn
+* License: General Public License
+* Source URL: <https://github.com/thraaawn/CompactMachines/>
+
 ## CookieCore
 * Author: ephys
 * License: DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 * Source URL: <http://minecraft.curseforge.com/mc-mods/222908-cookiecore/license>
 
+## Custom Main Menu
+* Author: Lumien
+* License: Please notify me when you use this mod in a modpack, you don't have to wait for an answer just send me the name of your pack.
+* Source URL: <http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu>
+
 ## DynIMC, Lunatrius Core, Stackie
 * Author: Lunatrius
 * License: Modpacks: you can freely include any of the mods in your mod pack if the modpack is free or private. Mentioning me as the author is appreciated but not required.
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods>
+
+## Enhanced Portals 3
+* Author: SkyNetAB
+* License: Enhanced Portals 3 is open source, released under the LGPL3. You may use this mod in a private or public modpack without our prior permission.
+* Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2178842>
 
 ## Enchiridion
 * Author: joshiejack
@@ -103,6 +118,11 @@ The main restriction is that sources must be accessible. If you are only redistr
 * Author: RWTema
 * License: You have my permission to use include this mod in any modpack, public or private, provided that credit is given, the source code is not modified and the overall mod pack is distributed free of charge.
 * Source: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k>
+
+## Fastcraft
+* Author: Player
+* License: Only for mod packs, unmodified, no pay or ad wall, warning+link+author+bug report mentioning in the description, disableable+upgradeable in launchers, update within 3 weeks, conditions may change.
+* Source URL: <http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820>
 
 ## Forestry
 * Author: sengir
