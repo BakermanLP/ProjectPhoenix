@@ -110,6 +110,13 @@ The main restriction is that sources must be accessible. If you are only redistr
 * License: Crazy Pants gave me permission via PM
 * Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/enderio.png>
 
+## EnderTech
+* Author: Drayshak, Arkember
+* License: Yes, you can use it in your (public) mod pack, as long as:
+			You aren't charging for access to items or the mod itself (Mojang's ToS applies),
+			You don't modify the Jar (it is appropriately signed and modifying it would break this).
+* Source URL: <http://minecraft.curseforge.com/mc-mods/223428-endertech>
+
 ## Extra Cells
 * Author: Leonelf
 * License: Leonelf wrote: You can distribute it in modpacks!
@@ -129,10 +136,45 @@ The main restriction is that sources must be accessible. If you are only redistr
 * License: Mod Packs: You are free to add Forestry to your modpack and redistribute it, as long as the modpack is strictly non-profit and none of the other mods are included against their license. Yes, this even applies to packs made by people I don't like. Don't expect me to play tech support for your modpack though. (Applies to 2.0.0.6+ and later.)
 * Source URL: http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads
 
+## Funky Locomotion
+* Author: RWTema
+* License: You are free to use and distribute Funky Locomotion in any public or private modpacks provided that proper credit is given for all included mods, it is provided without charge and the source files are not modified in any way. I do reserve the right to revoke this permission for any reason.
+* Source URL: <http://minecraft.curseforge.com/mc-mods/224190-funky-locomotion>
+
+## GalacticGreg
+* Author: Blood Asp
+* License: Who wants to use this mod in a Modpack is free to do so, i do not care.
+* Source URL: <http://forum.industrial-craft.net/index.php?page=Thread&threadID=11039>
+
+## Galacticraft
+* Author: micdoodle8
+* License: 	Permission is hereby granted for Galacticraft to be incorporated in any 
+			modpack without further authorisation from the Galacticraft developers, on 
+			the basis set out in sections 1 to 36 above and subject to the following 
+			additional points: (a) a modpack must not incorporate the word 
+			"Galacticraft" in its name nor in any other way present itself as being an 
+			"official" Galacticraft modpack; (b) modpacks are not required to provide 
+			players with a link to Galacticraft's source code, but they must not attempt 
+			to deny access to Galacticraft's source code nor otherwise interfere with 
+			the overriding principle; (c) every copy of Galacticraft's compiled binary
+			code must include, within the relevant .jar or .zip or other packaged file,
+			an unaltered copy of this LICENSE.txt.
+* Source URL: <https://github.com/micdoodle8/Galacticraft>
+
 ## GregtechMod
 * Author: GregoriusT
 * License: Gave me permission via PM and here is the screenshot:
 * Source URL: <https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/permissions/gregtechmod.png>
+
+## GrowthCraft
+* Author: Gwafu
+* License: Since the author is prone to inactivity, the mods can be freely included in any modpack provided that the author is credited.
+* Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286298-growthcraft-jul-15-2014-proper-1-7-10-release>
+
+## Hardcore Questing Mode
+* Authors: Iorddusk, Newcastlegeek, Vswe
+* License: Just give us a headsup, whether we reply or not, it's cool.
+* Source URL: <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>
 
 ## IguanaTinkerTweaks
 * Author: boni
