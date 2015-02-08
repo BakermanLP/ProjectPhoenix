@@ -13,7 +13,7 @@ recipes.remove(<rftools:dimensionEditorBlock>);
 recipes.remove(<rftools:machineFrame>);
 recipes.addShaped(<rftools:machineFrame>, [
     [ <minecraft:iron_ingot>, <minecraft:dye:4>, <minecraft:iron_ingot> ],
-    [ <minecraft:gold_nugget>, null, <minecraft:gold_nugget> ],
+    [ <ore:ingotSilver>, <ore:blockGlass>, <ore:ingotSilver> ],
     [ <minecraft:iron_ingot>, <minecraft:dye:4>, <minecraft:iron_ingot> ]
 ]);
 
