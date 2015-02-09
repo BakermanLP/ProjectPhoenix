@@ -37,6 +37,11 @@ Youre not a dick about usage of the mod.
 * Licence: Gneral Public License
 * Source URL: <http://minecraft.curseforge.com/mc-mods/59710-mb-battlegear-2>
 
+## Baubles
+* Author: azanor
+* Licence: Gneral Public License
+* Source URL: <http://minecraft.curseforge.com/mc-mods/227083-baubles/license>
+
 ## bdlib, gendustry, generators, neiaddons, pressure
 * Author: bdew
 * License: The mod is licensed under the MMPL-1.0, the source code is available on GitHub.
@@ -47,6 +52,16 @@ Yes this means you have permission to add it to any public or private mod pack w
 * Author: Nuchaz
 * License: As long as you provide proper credit to me for my work(s) and have a link back to www.bibliocraftmod.com,  you can use my mod(s) in your mod pack
 * Source URL: <http://www.bibliocraftmod.com/?page_id=57#modpacks>
+
+## Blood Magic
+* Author: WayOfTime
+* License: Creative Commons Attribution 4.0 International License
+* Source URL: <http://minecraft.curseforge.com/mc-mods/224791-blood-magic/license>
+
+## Botania
+* Author: Vazkii
+* License: Botania License ( Give proper credit and do not make money with a paywall )
+* Source URL: <http://botaniamod.net/license.php>
 
 ## Buildcraft
 * Author: SpaceToad
@@ -85,6 +100,11 @@ The main restriction is that sources must be accessible. If you are only redistr
 * License: DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 * Source URL: <http://minecraft.curseforge.com/mc-mods/222908-cookiecore/license>
 
+## CoroUtil, Weather2, ZombieAwareness
+* Author: Corosauce
+* License: Modpack policy: Now including Tropicraft, you can include any of my mods in your modpack, I just ask that you link back to my http://coros.us/ website for my mods, or http://tropicraft.net/ for Tropicraft, for wherever you display info about the mods in your mod pack.
+* Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272336-dec-2nd-coros-mods-bugfixing-coroutil-zombiecraft>
+
 ## Custom Main Menu
 * Author: Lumien
 * License: Please notify me when you use this mod in a modpack, you don't have to wait for an answer just send me the name of your pack.
@@ -94,6 +114,11 @@ The main restriction is that sources must be accessible. If you are only redistr
 * Author: Lunatrius
 * License: Modpacks: you can freely include any of the mods in your mod pack if the modpack is free or private. Mentioning me as the author is appreciated but not required.
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods>
+
+## Electrical Age
+* Author: Dolu1990
+* License: The source code of this mod is licensed under the LGPL V3.0 licence.
+* Source URL: <https://github.com/Dolu1990/ElectricalAge>
 
 ## Enhanced Portals 3
 * Author: SkyNetAB
@@ -176,6 +201,11 @@ The main restriction is that sources must be accessible. If you are only redistr
 * License: Just give us a headsup, whether we reply or not, it's cool.
 * Source URL: <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>
 
+## IC2Nuclear Control 2
+* Authors: Xbony2
+* License: Due to some confusion, here's it simply as possible: go for it. Just don't use adf.ly or a similar service. That's not actually against the license, bbbbut I'll beat you up. Just to note, I prefer the FTB launcher over other launchers. 
+* Source URL: <http://forum.industrial-craft.net/index.php?page=Thread&threadID=10649>
+
 ## IguanaTinkerTweaks
 * Author: boni
 * License: The Mod is licencsed under CC by-SA 4.0. Feel free to use this Mod in any Modpack. Thats what its for.
@@ -223,6 +253,16 @@ You may contact me (aka Alblaka), head of the IC² Dev Team, to negotiate condit
 * License: This mod is covered under the Creative Commons 3.0 license. Modpacks are encouraged, feel free to do anything you like with it. I only ask that you enjoy it!
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct>
 
+## Mariculture
+* Author: joshiejack
+* License: MIT License
+* Source URL: <http://minecraft.curseforge.com/mc-mods/68023-mariculture>
+
+## Minechem
+* Author: jakimfett
+* License: Minechem is licensed under the Don't Be a Jerk (DBaJ) non-commercial care-free license.
+* Source URL: <http://minecraft.curseforge.com/mc-mods/73373-minechem>
+
 ## MineFactoryReloaded, NetherOres
 * Author: skyboy026
 * License: Free for non-commercial use. You are free to include any of these mods in any modpacks or server-specific packs without needing to ask permission (but it'd be nice to hear if you do!), provided something either in the download or on your site lists me as the creator. You are also free to produce Bukkit ports. A link to this thread would be nice for any of the above, but that's all I ask.
@@ -258,6 +298,11 @@ You may contact me (aka Alblaka), head of the IC² Dev Team, to negotiate condit
 * License: Yes, yes, a thousand times YES, you can use this in your public/private modpack, just don't forget to let me know you've done it with a comment/tweet and don't fall behind on version updates :)
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963>
 
+## NotEnoughResources
+* Author: Way2muchnoise, hilburn
+* License: you’re free to ... Put the code or compiled binaries into your modpack
+* Source URL: <http://minecraft.curseforge.com/mc-mods/225815-notenoughresources>
+
 ## Simple Jetpacks
 * Author: mistaqur
 * License: Yes, You Can Use These In Your Modpack (TM)
@@ -273,15 +318,20 @@ You may contact me (aka Alblaka), head of the IC² Dev Team, to negotiate condit
 * License: Yes, you can use these in your mod pack ;-)
 * Source URL: <http://www.openperipheral.info/>
 
-## OpenComponents, OpenComputer
+## OpenComputer
 * Author: Sangar
 * License: This mod is licensed under the MIT License, which basically means you can do whatever you want: use it in modpacks, fork it, copy parts of it, as long as you include the license file with it. If you use it in modpacks: the file is in the ZIP, so you don't have to worry about that. Giving credit would be appreciated but isn't obligatory.
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293018-opencomputers-v1-3-3>
 
 ## OpenEye
-* Author: 
+* Author: Mikeemoo
 * License: Yeah of course you have permission. Permissions are silly. Do what you like - however, if you've got a HUGE mod pack, we'd really appreciate a heads-up first so we can keep an eye on the servers.
 * Source URL: <http://openeye.openmods.info/download>
+
+## OpenModularTurrets
+* Author: Keridos, Poenjabiesous
+* License: GPLv3
+* Source URL: <http://minecraft.curseforge.com/mc-mods/224663-openmodularturrets>
 
 ## Pams Harvestcraft
 * Author: MatrexsVigil
@@ -318,10 +368,25 @@ You may contact me (aka Alblaka), head of the IC² Dev Team, to negotiate condit
 * License: Go for it, consider this open permission.
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238>
 
+## RPG Advanced Mod
+* Author: ProfMobius, RazzleberryFox, taelnia, Wulfyk
+* License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+* Source URL: <http://minecraft.curseforge.com/mc-mods/220611-rpg-advanced-mod>
+
+## Ruins
+* Author: AtomicStryker
+* License: Ask for permission I would say
+* Wrote a hopefully nice PM to him
+
 ## SpiceOfLife 
 * Author: squeek502
 * License: You are welcome to add this mod to any modpack youd like.
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety>
+
+## Steves Addons
+* Author: hilburn
+* License: DBaJ Carefree License
+* Source URL: <http://minecraft.curseforge.com/mc-mods/226067-steves-addons>
 
 ## StevesCarts2, StevesFactoryManager
 * Vswe
@@ -362,7 +427,13 @@ http://stevesfactorymanager.wikispaces.com/
 * License: Use it. Modpack it. Crack it open and experiment with its dangly parts. I care not. You do not need my permission to put it in a modpack, so just do it like Nike. To be safe, we'll just go with the same license Tinkers' Construct has.
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445710-1-6-4-tinkers-steelworks>
 
+## ttCode, Waila Plugins
+* Author: tterrag1098
+* License: Before reading the license, note that I give blanket permissions for all "modpacks" to distribute this mod freely.
+* Source URL: <http://minecraft.curseforge.com/mc-mods/226082-ttcore>
+
 ## Waila Harvestability
 * Author: squeek502
 * License: You are welcome to add this mod to any modpack you'd like.
 * Source URL: <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067>
+
