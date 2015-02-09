@@ -133,7 +133,7 @@ The main restriction is that sources must be accessible. If you are only redistr
 ## EnderIO
 * Author: Crazy Pants
 * License: Crazy Pants gave me permission via PM
-* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/enderio.png>
+* Source URL: <https://github.com/BakermanLP/ProjectPhoenix/blob/master/permissions/enderio.png>
 
 ## EnderTech
 * Author: Drayshak, Arkember
@@ -189,7 +189,7 @@ The main restriction is that sources must be accessible. If you are only redistr
 ## GregtechMod
 * Author: GregoriusT
 * License: Gave me permission via PM and here is the screenshot:
-* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/permissions/gregtechmod.png>
+* Source URL: <https://github.com/BakermanLP/ProjectPhoenix/blob/master/permissions/gregtechmod.png>
 
 ## GrowthCraft
 * Author: Gwafu
@@ -336,7 +336,7 @@ You may contact me (aka Alblaka), head of the IC² Dev Team, to negotiate condit
 ## Pams Harvestcraft
 * Author: MatrexsVigil
 * License: Gave me permission via pm
-* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/permissions/harvestcraft.png>
+* Source URL: <https://github.com/BakermanLP/ProjectPhoenix/blob/master/permissions/harvestcraft.png>
 
 ## PneumatiCraft
 * Author: MineMaarten
@@ -375,8 +375,8 @@ You may contact me (aka Alblaka), head of the IC² Dev Team, to negotiate condit
 
 ## Ruins
 * Author: AtomicStryker
-* License: Ask for permission I would say
-* Wrote a hopefully nice PM to him
+* License: Gave me permission via PM
+* Source URL: <https://github.com/BakermanLP/ProjectPhoenix/blob/master/permissions/ruins.png>
 
 ## SpiceOfLife 
 * Author: squeek502
