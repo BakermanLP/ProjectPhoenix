@@ -25,7 +25,7 @@ var elementCn = <minechem:minechemElement:112>;
 var elementNo = <minechem:minechemElement:102>;
 
 
-# Moleküle
+# Molekuele
 var moleculeWater = <minechem:minechemMolecule:1>;
 var moleculeCelulose = <minechem:minechemMolecule>;
 var moleculeSucrose = <minechem:minechemMolecule:66>;
