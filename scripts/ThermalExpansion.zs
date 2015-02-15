@@ -9,3 +9,9 @@ mods.thermalexpansion.Sawmill.addRecipe(1600, <minecraft:planks:3>, <minecraft:s
 mods.thermalexpansion.Sawmill.addRecipe(1600, <minecraft:planks:4>, <minecraft:stick> * 6, <ThermalExpansion:material:512>, 25);
 mods.thermalexpansion.Sawmill.addRecipe(1600, <minecraft:planks:5>, <minecraft:stick> * 6, <ThermalExpansion:material:512>, 25);
 
+#Resonant Flux Capacitor mit GT Pyrotheum
+recipes.addShaped(<ThermalExpansion:capacitor:5>, [
+    [ null, <minecraft:redstone>, null ],
+    [ <ore:ingotEnderium>, <ThermalExpansion:capacitor:4>, <ore:ingotEnderium>],
+    [ <minecraft:redstone>, <gregtech:gt.metaitem.01:2843>, <minecraft:redstone>]
+]);
