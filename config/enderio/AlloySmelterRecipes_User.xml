@@ -30,7 +30,7 @@ ore dictionary.
   <recipe name="EnderiumGT" energyCost="50000">
     <input>
       <itemStack oreDictionary="ingotEnderiumBase" number="2" />
-      <itemStack modID="gregtech" itemName="gt.metaitem.01" itemMeta="2843" />
+      <itemStack modID="gregtech_addon" itemName="gt.metaitem.01" itemMeta="2843" />
       <itemStack modID="minecraft" itemName="ender_pearl" number="2"/>             
     </input>
     <output>
