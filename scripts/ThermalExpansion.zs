@@ -15,3 +15,10 @@ recipes.addShaped(<ThermalExpansion:capacitor:5>, [
     [ <ore:ingotEnderium>, <ThermalExpansion:capacitor:4>, <ore:ingotEnderium>],
     [ <minecraft:redstone>, <gregtech:gt.metaitem.01:2843>, <minecraft:redstone>]
 ]);
+
+#Augment: Overclocked Modular Gearbox mit GT Pyrotheum
+recipes.addShaped(<ThermalExpansion:augment:129>, [
+    [ null, <ore:ingotGold>, null ],
+    [ <ore:ingotBronze>, <ThermalExpansion:material:1>, <ore:ingotBronze> ],
+    [ <gregtech:gt.metaitem.01:2843>, <ore:ingotGold>,<gregtech:gt.metaitem.01:2843> ]
+]);
