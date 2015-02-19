@@ -49,16 +49,16 @@ var mySticks = [
     <Natura:natura.stick:12>
 ] as IItemStack[];
 
-for i, log in myLogs {
-    var plank = myPlanks[i];
-    var stick = mySticks[i];
-    recipes.removeShapeless(plank, [log]);
-    recipes.addShapeless(plank * 2, [log]);
-    recipes.addShaped(plank * 4, [[<ore:craftingToolSaw>,null],[log,null]]);
-    recipes.removeShaped(stick);
-    recipes.addShaped(stick * 2, [[plank, null],[ plank,null ]]);
-    recipes.addShaped(stick * 4, [[<ore:craftingToolSaw>,null],[plank,null],[plank,null]]);
-}
+#for i, log in myLogs {
+#    var plank = myPlanks[i];
+#    var stick = mySticks[i];
+#    recipes.removeShapeless(plank, [log]);
+#    recipes.addShapeless(plank * 2, [log]);
+#    recipes.addShaped(plank * 4, [[<ore:craftingToolSaw>,null],[log,null]]);
+#    recipes.removeShaped(stick);
+#    recipes.addShaped(stick * 2, [[plank, null],[ plank,null ]]);
+#    recipes.addShaped(stick * 4, [[<ore:craftingToolSaw>,null],[plank,null],[plank,null]]);
+#}
 
 # Bread
 var flour = <harvestcraft:flourItem>;

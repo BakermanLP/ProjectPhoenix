@@ -30,20 +30,20 @@ recipes.remove(<MineFactoryReloaded:cable.redstone:3>);
 #------------------
 
 # Cheese Ore
-MiningLaser.removeOre(<gregtech:gt.blockores:894>);
+# MiningLaser.removeOre(<gregtech:gt.blockores:894>);
 # Force Ore
-MiningLaser.removeOre(<gregtech:gt.blockores:521>);
+# MiningLaser.removeOre(<gregtech:gt.blockores:521>);
 # Mana Infused Ore
 MiningLaser.removeOre(<ThermalFoundation:Ore:6>);
 # Nether Mithril Ore
 MiningLaser.removeOre(<NetherOres:tile.netherores.ore.1:7>);
 # Osmium Ore
-MiningLaser.removeOre(<gregtech:gt.blockores:83>);
+# MiningLaser.removeOre(<gregtech:gt.blockores:83>);
 # Adamantium Ore
-MiningLaser.removeOre(<gregtech:gt.blockores:319>);
+# MiningLaser.removeOre(<gregtech:gt.blockores:319>);
 # Nether Adamantium Ore
-MiningLaser.removeOre(<NetherOres:tile.netherores.ore.1:8>);
+# MiningLaser.removeOre(<NetherOres:tile.netherores.ore.1:8>);
 # Nikolite Ore
-MiningLaser.removeOre(<gregtech:gt.blockores:812>);
+# MiningLaser.removeOre(<gregtech:gt.blockores:812>);
 # Nether Nikolite Ore
 MiningLaser.removeOre(<NetherOres:tile.netherores.ore.0:12>);
