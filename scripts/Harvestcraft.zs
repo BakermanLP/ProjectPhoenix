@@ -198,18 +198,18 @@ jelly.add(<harvestcraft:persimmonjellyItem>);
 
 # Salt Ore
 var oreSalt = <harvestcraft:salt>;
-var oreCrushedSalt = <gregtech:gt.metaitem.01:5817>;
-var itemRockSalt = <gregtech:gt.metaitem.01:2944>;
-var dustStone = <gregtech:gt.metaitem.01:2299>;
-mods.ic2.Macerator.addRecipe(oreCrushedSalt * 16, oreSalt);
-mods.gregtech.ForgeHammer.addRecipe(oreCrushedSalt * 8, oreSalt, 16, 10);
+# var oreCrushedSalt = <gregtech:gt.metaitem.01:5817>;
+# var itemRockSalt = <gregtech:gt.metaitem.01:2944>;
+# var dustStone = <gregtech:gt.metaitem.01:2299>;
+# mods.ic2.Macerator.addRecipe(oreCrushedSalt * 16, oreSalt);
+# mods.gregtech.ForgeHammer.addRecipe(oreCrushedSalt * 8, oreSalt, 16, 10);
 
 # Milk
 var milkFresh = <harvestcraft:freshmilkItem>;
 var bucketMilk = <minecraft:milk_bucket>;
 var clayBucketMilk = <IguanaTweaksTConstruct:clayBucketMilk>;
 var florbMilk = <ThermalExpansion:florb>.withTag({Fluid: "milk"});
-var bottleGregMilk = <gregtech:gt.metaitem.02:32136>;
+# var bottleGregMilk = <gregtech:gt.metaitem.02:32136>;
 var bottleMilk = <MineFactoryReloaded:milkbottle>;
 
 recipes.remove(milkFresh);
@@ -218,7 +218,7 @@ recipes.addShapeless(milkFresh * 4, [bucketMilk]);
 recipes.addShapeless(milkFresh * 4, [clayBucketMilk]);
 recipes.addShapeless(milkFresh * 4, [florbMilk]);
 recipes.addShapeless(milkFresh * 4, [bottleMilk]);
-recipes.addShapeless(milkFresh * 1, [bottleGregMilk]);
+# recipes.addShapeless(milkFresh * 1, [bottleGregMilk]);
 
 # Water
 var waterFresh = <harvestcraft:freshwaterItem>;
