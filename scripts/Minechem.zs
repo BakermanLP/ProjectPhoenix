@@ -169,20 +169,20 @@ var fusionwall = <minechem:tile.fusionWall>;
 var tungstenplating = <minechem:tile.fusionWall:1>;
 
 ## Lense
-#recipes.remove(lensConcave);
+recipes.remove(lensConcave);
 #recipes.addShaped(lensConcave, [
 #    [toolFile],
 #    [lenseGlass]
 #]);
 #
-#recipes.remove(lensConvex);
+recipes.remove(lensConvex);
 #recipes.addShaped(lensConvex, [
 #    [lenseGlass],
 #    [toolFile]
 #]);
 #
 ## Microscope
-#recipes.remove(microscope);
+recipes.remove(microscope);
 #recipes.addShaped(microscope, [
 #  [null, lensMicroscope, stickBlackSteel],
 #  [null, lenseGlass, stickBlackSteel],
@@ -190,7 +190,7 @@ var tungstenplating = <minechem:tile.fusionWall:1>;
 #]);
 #
 ## Decomposer
-#recipes.remove(decomposer);
+recipes.remove(decomposer);
 #recipes.addShaped(decomposer, [
 #  [plateStainlessSteel, robotarmMV, plateStainlessSteel],
 #  [sensorMV, producerRF, emitterMV],
@@ -198,7 +198,7 @@ var tungstenplating = <minechem:tile.fusionWall:1>;
 #]);
 #
 ## Synthesiser
-#recipes.remove(synthesizer);
+recipes.remove(synthesizer);
 #recipes.addShaped(synthesizer, [
 #  [plateBlackBronze, robotarmHV, plateBlackBronze],
 #  [sensorHV, producerRF, emitterHV],
@@ -206,7 +206,7 @@ var tungstenplating = <minechem:tile.fusionWall:1>;
 #]);
 #
 ## Tungsten Plating:
-#recipes.remove(tungstenplating);
+recipes.remove(tungstenplating);
 #recipes.addShaped(tungstenplating * 4, [
 #  [plateLead, plateTungstenSteel, plateLead],
 #  [plateLead, plateBeryllium, plateLead],
@@ -214,7 +214,7 @@ var tungstenplating = <minechem:tile.fusionWall:1>;
 #]);
 #
 ## Fusion Wall:
-#recipes.remove(fusionwall);
+recipes.remove(fusionwall);
 #recipes.addShaped(fusionwall * 4, [
 #  [plateLead, elementPB, plateLead],
 #  [plateLead, elementPB, plateLead],
