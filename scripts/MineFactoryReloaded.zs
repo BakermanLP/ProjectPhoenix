@@ -53,3 +53,9 @@ MiningLaser.removeOre(<NetherOres:tile.netherores.ore.0:12>);
 
 recipes.remove(<MineFactoryReloaded:plastic.sheet>);
 recipes.addShapeless( <MineFactoryReloaded:plastic.sheet> * 9, [<MineFactoryReloaded:plastic>]);
+
+
+######### RedNet Controller&Cable Recipies removed (Issue server crash) ######
+
+recipes.remove( <MineFactoryReloaded:rednet.logic> );
+recipes.remove( <MineFactoryReloaded:cable.redstone> );
