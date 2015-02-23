@@ -47,3 +47,9 @@ MiningLaser.removeOre(<NetherOres:tile.netherores.ore.1:7>);
 # MiningLaser.removeOre(<gregtech:gt.blockores:812>);
 # Nether Nikolite Ore
 MiningLaser.removeOre(<NetherOres:tile.netherores.ore.0:12>);
+
+
+########## Fixes for GT5 to GT6 migration ##########
+
+recipes.remove(<MineFactoryReloaded:plastic.sheet>);
+recipes.addShapeless( <MineFactoryReloaded:plastic.sheet> * 9, [<MineFactoryReloaded:plastic>]);
