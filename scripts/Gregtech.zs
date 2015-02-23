@@ -325,7 +325,6 @@ recipes.addShaped(plasticSheet * 2, [
 ]);
 
 # Block of Plastic 
-recipes.addShapeless( plasticSheet * 9, [<MineFactoryReloaded:plastic>]);
 recipes.addShapeless( plasticSheet * 9, [<gregtech:gt.meta.storage.plate:8218>]);
 
 # Crate
