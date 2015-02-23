@@ -2,6 +2,29 @@ import minetweaker.data.IData;
 import minetweaker.item.IItemStack;
 import minetweaker.liquid.ILiquidStack;
 
+//Tool Parts
+val flintPickHead = <TConstruct:pickaxeHead:3>;
+val flintAxeHead = <TConstruct:hatchetHead:3>;
+val flintShovelHead = <TConstruct:shovelHead:3>;
+val flintToolRod = <TConstruct:toolRod:3>;
+val woodToolRod = <TConstruct:toolRod>;
+val woodBinding = <TConstruct:binding>;
+val stick = <minecraft:stick>;
+val flint = <minecraft:flint>;
+val hatchet = <TConstruct:hatchet>;
+
+//Pick Head
+recipes.addShaped(flintPickHead, [[flint, flint]]);
+//Axe Head
+recipes.addShaped(flintAxeHead, [[flint, flint], [flint, null]]);
+//Shovel Head
+recipes.addShaped(flintShovelHead, [[flint], [flint]]);
+//Tool rod
+recipes.addShaped(woodToolRod, [[stick], [stick]]);
+//Binding
+recipes.addShaped(woodBinding, [[null, stick], [stick, null]]);
+
+
 var plateIron = <gregtech:gt.meta.plate:260>;
 var plateGold = <gregtech:gt.meta.plate:790>;
 var plateCopper = <gregtech:gt.meta.plate:290>;
