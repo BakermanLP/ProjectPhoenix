@@ -30,3 +30,16 @@ recipes.addShaped(<LogisticsPipes:item.itemModule:602>, [
   [<BuildCraft|Silicon:redstoneChipset:3>, null, null],
   [<LogisticsPipes:item.itemModule:601>, null, null]
 ]);
+
+# active supplier module
+recipes.addShaped(<LogisticsPipes:item.itemModule:502>, [
+  [null, null, null],
+  [<ore:dustRedstone>, <LogisticsPipes:item.itemModule>, <ore:dustRedstone>],
+  [<ore:dyeRed>, <ore:gearIron>, <ore:dyeRed>]
+]);
+
+recipes.addShaped(<LogisticsPipes:item.itemModule:502>, [
+  [null, null, null],
+  [null, <LogisticsPipes:item.itemModule>, null],
+  [<ore:dyeRed>, <BuildCraft|Silicon:redstoneChipset:1>, <ore:dyeRed>]
+]);
