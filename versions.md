@@ -1,9 +1,9 @@
 ## forge
-forge-1.7.10-10.13.2.1291-universal
+* forge-1.7.10-10.13.2.1291
 ## mods
 * 1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar
 * ae2stuff-mc1710-0.1.5.13.jar
-* AgriCraft-1.7.10-1.3.0-alpha4-b358.jar
+* AgriCraft-1.7.10-1.3.0-alpha5-b365.jar
 * AOBD-2.4.0.jar
 * AppleCore-mc1.7.10-1.1.0.jar
 * appliedenergistics2-rv2-beta-8.jar
@@ -11,14 +11,15 @@ forge-1.7.10-10.13.2.1291-universal
 * bdlib-mc1710-1.6.4.49.jar
 * BiblioCraft[v1.9.2][MC1.7.10].jar
 * BloodMagic-1.7.10-1.3.0b-3.jar
-* Botania r1.5-163.jar
+* Botania r1.5-164.jar
 * buildcraft-6.3.7.jar
 * buildcraft-compat-6.3.1.jar
 * Carpenter's Blocks v3.3.5 - MC 1.7.10.jar
+* ChickenChunks-1.7.10-1.3.4.17-universal.jar
 * Chisel2-2.3.7.34.jar
 * CodeChickenCore-1.7.10-1.0.4.35-universal.jar
-* CoFHCore-[1.7.10]3.0.0RC1-181.jar
-* CoFHLib-[1.7.10]1.0.0B9-112.jar
+* CoFHCore-[1.7.10]3.0.0RC2-195.jar
+* CoFHLib-[1.7.10]1.0.0B9-118.jar
 * compactmachines-1.7.10-1.17.jar
 * CookieCore-1.7.10-1.3.1-5.jar
 * coroutil-1.1.2 for MC v1.7.10.jar
@@ -35,7 +36,7 @@ forge-1.7.10-10.13.2.1291-universal
 * fastcraft-1.19.jar
 * forestry_1.7.10-3.4.0.7.jar
 * forgeessentials-1.7.10-1.4.0-beta5-client.jar
-* funky-locomotion-1.7.10-beta-4.jar
+* funky-locomotion-1.7.10-beta-5a.jar
 * GalacticGreg-1.3.jar
 * GalacticraftCore-1.7-3.0.8.266.jar
 * Galacticraft-Planets-1.7-3.0.8.266.jar
@@ -58,7 +59,7 @@ forge-1.7.10-10.13.2.1291-universal
 * InventoryTweaks-1.59-dev-156.jar
 * ironchest-1.7.10-6.0.62.742-universal.jar
 * Jabba-1.2.1_1.7.10.jar
-* logisticspipes-0.8.3.102.jar
+* logisticspipes-0.8.3.103.jar
 * LunatriusCore-1.7.10-1.1.2.21-universal.jar
 * malisiscore-1.7.10-0.10.5.jar
 * malisisdoors-1.7.10-1.4.3.jar
@@ -80,13 +81,13 @@ forge-1.7.10-10.13.2.1291-universal
 * NotEnoughKeys-1.7.10-1.0.0b29.jar
 * NotEnoughResources-1.7.10-0.1.0.95.jar
 * ObsidiPlates-1.7.10-universal-3.0.0.18.jar
-* OpenBlocks-1.7.10-1.3-snapshot-566.jar
+* OpenBlocks-1.7.10-1.3-snapshot-567.jar
 * OpenComputers-MC1.7.10-1.5.0.6-universal.jar
 * OpenEye-0.6-1.7.10-snapshot-142.jar
 * OpenModsLib-1.7.10-0.6-snapshot-315.jar
 * OpenModularTurrets-1.7.10-1.3.4-27.jar
 * Opis-1.2.3_1.7.10.jar
-* Pam's HarvestCraft 1.7.10f.jar
+* Pam's HarvestCraft 1.7.10g.jar
 * PneumaticCraft-1.7.10-1.6.2-64-universal.jar
 * pressure-mc1710-1.0.6.60.jar
 * ProjectRed-1.7.10-4.5.12.64-Base.jar
@@ -102,16 +103,17 @@ forge-1.7.10-10.13.2.1291-universal
 * Ruins-1.7.10.jar
 * SimplyJetpacks-MC1.7.10-1.4.1.jar
 * SpiceOfLife-mc1.7.10-1.2.3.jar
-* StevesAddons-1.7.10-0.7.3.jar
+* StevesAddons-1.7.10-0.8.0.jar
 * StevesCarts2.0.0.b18.jar
 * StevesFactoryManagerA93.jar
 * StevesWorkshop-0.5.1.jar
-* StorageDrawers-1.7.10-1.2.2.jar
+* StorageDrawers-1.7.10-1.2.3.jar
 * TabbyChat-1.7.10-1.11.2.2-fml.jar
 * TConstruct-1.7.10-1.8.2.build900.jar
-* ThermalDynamics-[1.7.10]1.0.0RC1-69.jar
-* ThermalExpansion-[1.7.10]4.0.0RC1-119.jar
-* ThermalFoundation-[1.7.10]1.0.0RC2-53.jar
+* ThermalDynamics-[1.7.10]1.0.0RC2-77.jar
+* ThermalExpansion-[1.7.10]4.0.0RC2-129.jar
+* ThermalFoundation-[1.7.10]1.0.0RC3-56.jar
+* ThermalSmeltery-1.7.10-1.1.1.jar
 * TiCTooltips-mc1.7.10-1.2.1.jar
 * TMechworks-1.7.10-0.2.11.89.jar
 * TSteelworks-1.7.10-1.1.0-6.jar

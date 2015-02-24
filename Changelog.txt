@@ -1,5 +1,28 @@
 Changelog: 
 =================================================
+0.2.0 beta4
+=================================================
+Temporary removed
+- Tinkers Defense
+
+Mod updates / additions
+- AgriCraft-1.7.10-1.3.0-alpha5-b365.jar
+- Botania r1.5-164.jar
+- ChickenChunks-1.7.10-1.3.4.17-universal.jar
+- CoFHCore-[1.7.10]3.0.0RC2-195.jar
+- CoFHLib-[1.7.10]1.0.0B9-118.jar
+- funky-locomotion-1.7.10-beta-5a.jar
+- logisticspipes-0.8.3.103.jar
+- OpenBlocks-1.7.10-1.3-snapshot-567.jar
+- Pam's HarvestCraft 1.7.10g.jar
+- StevesAddons-1.7.10-0.8.0.jar
+- StorageDrawers-1.7.10-1.2.3.jar
+- ThermalDynamics-[1.7.10]1.0.0RC2-77.jar
+- ThermalExpansion-[1.7.10]4.0.0RC2-129.jar
+- ThermalFoundation-[1.7.10]1.0.0RC3-56.jar
+- ThermalSmeltery-1.7.10-1.1.1.jar
+Changelog: 
+=================================================
 0.2.0 beta3
 =================================================
 Mod updates / additions
