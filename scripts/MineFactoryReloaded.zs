@@ -59,3 +59,7 @@ recipes.addShapeless( <MineFactoryReloaded:plastic.sheet> * 9, [<MineFactoryRelo
 
 recipes.remove( <MineFactoryReloaded:rednet.logic> );
 recipes.remove( <MineFactoryReloaded:cable.redstone> );
+
+######### Plastic Tank Recipies removed (Issue client crash on server) ######
+
+recipes.remove( <MineFactoryReloaded:tank> );
