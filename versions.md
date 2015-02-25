@@ -1,9 +1,7 @@
-## forge
-* forge-1.7.10-10.13.2.1291
 ## mods
 * 1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar
 * ae2stuff-mc1710-0.1.5.13.jar
-* AgriCraft-1.7.10-1.3.0-alpha5-b365.jar
+* AgriCraft-1.7.10-1.3.0-alpha6-b372.jar
 * AOBD-2.4.0.jar
 * AppleCore-mc1.7.10-1.1.0.jar
 * appliedenergistics2-rv2-beta-8.jar
@@ -11,7 +9,7 @@
 * bdlib-mc1710-1.6.4.49.jar
 * BiblioCraft[v1.9.2][MC1.7.10].jar
 * BloodMagic-1.7.10-1.3.0b-3.jar
-* Botania r1.5-164.jar
+* Botania r1.5-165.jar
 * buildcraft-6.3.7.jar
 * buildcraft-compat-6.3.1.jar
 * Carpenter's Blocks v3.3.5 - MC 1.7.10.jar
@@ -32,7 +30,7 @@
 * EnderTech-1.7.10-0.3.0.364.jar
 * EnhancedPortals_1.7.10-universal-3.0.10.jar
 * ExtraCells-1.7.10-2.2.55b85.jar
-* extrautilities-1.2.1.jar
+* extrautilities-1.2.2.jar
 * fastcraft-1.19.jar
 * forestry_1.7.10-3.4.0.7.jar
 * forgeessentials-1.7.10-1.4.0-beta5-client.jar
@@ -42,7 +40,7 @@
 * Galacticraft-Planets-1.7-3.0.8.266.jar
 * gendustry-mc1710-1.4.7.64.jar
 * generators-mc1710-0.9.10.46.jar
-* gregtech_1.7.10-6.00.07.jar
+* gregtech_1.7.10-6.00.08.jar
 * growthcraft-bamboo-1.7.10-2.1.0.jar
 * growthcraft-cellar-1.7.10-2.1.0a.jar
 * growthcraft-core-1.7.10-2.1.0a.jar
@@ -64,7 +62,7 @@
 * malisiscore-1.7.10-0.10.5.jar
 * malisisdoors-1.7.10-1.4.3.jar
 * Mantle-1.7.10-0.3.2.jenkins187.jar
-* Mariculture-Deluxe-1.7.10-1.2.4d-15.jar
+* Mariculture-Deluxe-1.7.10-1.2.4d-17.jar
 * MicdoodleCore-1.7-3.0.8.266.jar
 * Minechem-1.7.10-5.0.5.387.jar
 * MineFactoryReloaded-[1.7.10]2.8.0RC7-71.jar
@@ -97,13 +95,13 @@
 * RandomThings-2.2.4.jar
 * RedstoneArsenal-[1.7.10]1.1.0RC2-43.jar
 * ResourceLoader-1.0.jar
-* rftools-2.50.jar
+* rftools-2.51.jar
 * roguelike-1.7.10-1.3.6.jar
 * RPGAdvMod-1.0.0_1.7.10.jar
 * Ruins-1.7.10.jar
 * SimplyJetpacks-MC1.7.10-1.4.1.jar
 * SpiceOfLife-mc1.7.10-1.2.3.jar
-* StevesAddons-1.7.10-0.8.0.jar
+* StevesAddons-1.7.10-0.8.1.jar
 * StevesCarts2.0.0.b18.jar
 * StevesFactoryManagerA93.jar
 * StevesWorkshop-0.5.1.jar
