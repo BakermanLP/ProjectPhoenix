@@ -333,3 +333,13 @@ recipes.addShaped(plasticSheet * 16, [
     [ <gregtech:gt.meta.crate.plate:8218>, null, null ],
     [null, null, null,]
 ]);
+
+# Wrench Workaround temporary
+val CraftingWrench = <ore:craftingToolWrench>;
+CraftingWrench.add(<IC2:itemToolWrench>);
+CraftingWrench.add(<ThermalExpansion:wrench>);
+CraftingWrench.add(<Forestry:wrench>);
+CraftingWrench.add(<EnderIO:itemYetaWrench>);
+CraftingWrench.add(<Eln:Eln.sharedItem>);
+CraftingWrench.add(<BuildCraft|Core:wrenchItem>);
+
