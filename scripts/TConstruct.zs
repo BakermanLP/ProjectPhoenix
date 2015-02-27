@@ -92,9 +92,9 @@ var stickPlatinum = <gregtech:gt.meta.stick:780>;
 var stickElectrum = <gregtech:gt.meta.stick:8600>;
 var stickInvar = <gregtech:gt.meta.stick:8661>;
 
-# var ingotRedAlloy = <gregtech:gt.meta.ingot:8660>;
-# var plateRedAlloy = <gregtech:gt.meta.plate:8660>;
-# var liquidRedAlloy = <liquid:redmetal.molten>;
+var ingotRedAlloy = <gregtech:gt.meta.ingot:8660>;
+var plateRedAlloy = <gregtech:gt.meta.plate:8660>;
+var liquidRedAlloy = <liquid:redmetal.molten>;
 
 # Knapsack
 recipes.removeShaped(<TConstruct:knapsack>);
@@ -107,22 +107,33 @@ recipes.addShaped(<TConstruct:Armor.DryingRack>, [
 ]);
 
 # Fluids
-#mods.tconstruct.Smeltery.addMelting(<minecraft:redstone>, <liquid:redstone> * 100, 200, <minecraft:redstone_block>);
-#mods.tconstruct.Smeltery.addMelting(<minecraft:redstone_block>, <liquid:redstone> * 900, 200, <minecraft:redstone_block>);
-#mods.tconstruct.Smeltery.addMelting(<minecraft:glowstone_dust>, <liquid:glowstone> * 250, 200, <minecraft:glowstone>);
-#mods.tconstruct.Smeltery.addMelting(<minecraft:glowstone>, <liquid:glowstone> * 1000, 200, <minecraft:glowstone>);
+mods.tconstruct.Smeltery.removeMelting(<minecraft:redstone>);
+mods.tconstruct.Smeltery.removeMelting(<minecraft:redstone_block>);
+mods.tconstruct.Smeltery.addMelting(<minecraft:redstone>, <liquid:redstone> * 100, 500, <minecraft:redstone_block>);
+mods.tconstruct.Smeltery.addMelting(<minecraft:redstone_block>, <liquid:redstone> * 900, 500, <minecraft:redstone_block>);
+
+mods.tconstruct.Smeltery.removeMelting(<minecraft:glowstone>);
+mods.tconstruct.Smeltery.removeMelting(<minecraft:glowstone_dust>);
+mods.tconstruct.Smeltery.addMelting(<minecraft:glowstone_dust>, <liquid:glowstone> * 250, 500, <minecraft:glowstone>);
+mods.tconstruct.Smeltery.addMelting(<minecraft:glowstone>, <liquid:glowstone> * 1000, 500, <minecraft:glowstone>);
 
 # Eimer fuellen
-#mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:bucket>, <liquid:redstone> * 1000, <minecraft:bucket>, true, 20);
-#mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:bucket:1>, <liquid:glowstone> * 1000, <minecraft:bucket>, true, 20);
+mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:bucket>, <liquid:redstone> * 1000, <minecraft:bucket>, true, 20);
+mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:bucket:1>, <liquid:glowstone> * 1000, <minecraft:bucket>, true, 20);
 
 # Block
-#mods.tconstruct.Casting.addBasinRecipe(<minecraft:redstone_block>, <liquid:redstone> * 900, null, false, 20);
-#mods.tconstruct.Casting.addBasinRecipe(<minecraft:glowstone>, <liquid:glowstone> * 1000, null, false, 20);
+mods.tconstruct.Casting.addBasinRecipe(<minecraft:redstone_block>, <liquid:redstone> * 900, null, false, 20);
+mods.tconstruct.Casting.addBasinRecipe(<minecraft:glowstone>, <liquid:glowstone> * 1000, null, false, 20);
 
 # Red Alloy
-# mods.tconstruct.Casting.addTableRecipe(<plateRedAlloy>, <liquidRedAlloy> * 288, null, false, 20);
-# mods.tconstruct.Casting.addTableRecipe(<ingotRedAlloy>, <liquidRedAlloy> * 144, <TConstruct:metalPattern>, false, 20);
+mods.tconstruct.Smeltery.removeAlloy(liquidRedAlloy);
+mods.tconstruct.Smeltery.addAlloy(liquidRedAlloy * 144, [<liquid:redstone> * 400, <liquid:iron.molten> * 144]);
+mods.tconstruct.Smeltery.addAlloy(liquidRedAlloy * 144, [<liquid:redstone> * 300, <liquid:copper.molten> * 288]);
+mods.tconstruct.Smeltery.addAlloy(liquidRedAlloy * 144, [<liquid:redstone> * 200, <liquid:tin.molten> * 432]);
+mods.tconstruct.Smeltery.addAlloy(liquidRedAlloy * 144, [<liquid:redstone> * 100, <liquid:aluminum.molten> * 576]);
+
+mods.tconstruct.Casting.addTableRecipe(plateRedAlloy, liquidRedAlloy * 288, null, false, 20);
+mods.tconstruct.Casting.addTableRecipe(ingotRedAlloy, liquidRedAlloy * 144, <TConstruct:metalPattern>, false, 20);
 
 # Plates/Blocks/Gears
 
