@@ -63,3 +63,10 @@ recipes.remove( <MineFactoryReloaded:cable.redstone> );
 ######### Plastic Tank Recipies removed (Issue client crash on server) ######
 
 recipes.remove( <MineFactoryReloaded:tank> );
+
+######### Chunkloader alternativ recipes not working workaround ######
+
+recipes.remove( <MineFactoryReloaded:machine.2:10> );
+recipes.addShaped(<MineFactoryReloaded:machine.2:10> * 1, [[<ore:sheetPlastic>, <ThermalExpansion:Cell:4>, <ore:sheetPlastic>], [<ThermalExpansion:Tesseract> * 1, <ThermalExpansion:Frame:7> * 1, <ThermalExpansion:Tesseract> * 1], [<ore:thermalexpansion:machineElectrum>, <ThermalExpansion:material:3> * 1, <ore:thermalexpansion:machineElectrum>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.2:10> * 1, [[<ore:sheetPlastic>, <EnderIO:blockCapBank:3> * 1, <ore:sheetPlastic>], [<EnderIO:blockTransceiver> * 1, <EnderIO:blockCapBank:2> * 1, <EnderIO:blockTransceiver> * 1], [<ore:ingotEnergeticAlloy>, <EnderIO:itemBasicCapacitor:2> * 1, <ore:ingotEnergeticAlloy>]]);
+
