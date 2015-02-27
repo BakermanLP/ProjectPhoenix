@@ -1,5 +1,27 @@
 Changelog: 
 =================================================
+0.2.2 beta1 
+=================================================
+Mod updates / additions
+- ae2stuff-mc1710-0.1.6.14.jar
+- AgriCraft-1.7.10-1.3.0-alpha6-b378.jar
+- bdlib-mc1710-1.6.5.52.jar
+- buildcraft-6.4.1.jar
+- buildcraft-compat-6.4.0.jar
+- gendustry-mc1710-1.4.8.65.jar
+- generators-mc1710-0.9.11.48.jar
+- IguanaTinkerTweaks-1.7.10-2.1.2.116.jar
+- logisticspipes-0.8.3.104.jar
+- Minechem-1.7.10-5.0.5.389.jar
+- NotEnoughItems-1.7.10-1.0.4.90-universal.jar
+- OpenComputers-MC1.7.10-1.5.2.8-universal.jar
+- pressure-mc1710-1.0.7.62.jar
+- rftools-2.52.jar
+- StevesAddons-1.7.10-0.8.3.jar
+- TConstruct-1.7.10-1.8.3.build904.jar
+- TMechworks-1.7.10-0.2.13.96.jar
+Changelog: 
+=================================================
 0.2.1 
 =================================================
 Mod updates / additions
