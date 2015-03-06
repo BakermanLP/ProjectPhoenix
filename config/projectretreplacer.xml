@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<replace>
+    <tile class="crazypants.enderio.conduit.TileConduitBundle">
+        <replace>air</replace>
+    </tile>
+</replace>
+<!--
+
+    <tile class="net.minecraft.tileentity.TileEntityChest">
+        <replace>minecraft:air</replace>
+    </tile>
+
+Block replacemant cause lags
+Pleace use tile Replacement if you can
+    <name name="minecraft:stone">
+        <replace>minecraft:dirt</replace>
+    </name>
+-->
