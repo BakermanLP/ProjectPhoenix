@@ -1,198 +1,25 @@
 Changelog: 
 =================================================
-0.2.3
+Version 0.2.5
 =================================================
 Mod updates / additions
-- ae2stuff-mc1710-0.1.6.14.jar
-- AgriCraft-1.7.10-1.3.0-b407.jar
-- bdlib-mc1710-1.6.5.52.jar
-- BloodMagic-1.7.10-1.3.1-5.jar
-- Botania r1.5-168.jar
-- buildcraft-6.4.1.jar 
-- buildcraft-compat-6.4.0.jar
-- CoFHCore-[1.7.10]3.0.0RC2-201.jar
-- CoFHLib-[1.7.10]1.0.0RC1-119.jar
-- GalacticGreg-1.4.jar
-- GalacticraftCore-1.7-3.0.8.270.jar
-- Galacticraft-Planets-1.7-3.0.8.270.jar
-- gendustry-mc1710-1.4.8.65.jar
-- generators-mc1710-0.9.11.48.jar
-- gregtech_1.7.10-6.00.11.jar
-- IguanaTinkerTweaks-1.7.10-2.1.2.123.jar
-- industrialcraft-2-2.2.687-experimental.jar
-- logisticspipes-0.8.3.108.jar
-- Mariculture-Deluxe-1.7.10-1.2.4e-21.jar
-- MicdoodleCore-1.7-3.0.8.270.jar
-- Minechem-1.7.10-5.0.5.392.jar
-- MineFactoryReloaded-[1.7.10]2.8.0RC7-81.jar
-- OpenComputers-MC1.7.10-1.5.2.9-universal.jar
-- PneumaticCraft-1.7.10-1.6.3-65-universal.jar
-- pressure-mc1710-1.0.7.62.jar
-- RedstoneArsenal-[1.7.10]1.1.0RC2-49.jar
-- rftools-2.53.jar
-- StevesAddons-1.7.10-0.8.5.jar
-- StorageDrawers-1.7.10-1.2.4.jar
-- TConstruct-1.7.10-1.8.3.build906.jar
-- ThermalDynamics-[1.7.10]1.0.0RC2-89.jar
-- ThermalExpansion-[1.7.10]4.0.0RC2-131.jar
-- ThermalFoundation-[1.7.10]1.0.0RC3-57.jar
-- TMechworks-1.7.10-0.2.13.96.jar
-=================================================
-0.2.1 
-=================================================
-Mod updates / additions
-- AgriCraft-1.7.10-1.3.0-alpha6-b372.jar
-- Botania r1.5-165.jar
-- extrautilities-1.2.2.jar
-- gregtech_1.7.10-6.00.08.jar
-- Mariculture-Deluxe-1.7.10-1.2.4d-17.jar
-- rftools-2.51.jar
-- StevesAddons-1.7.10-0.8.1.jar
-=================================================
-0.2.0 beta4
-=================================================
-Temporary removed
-- Tinkers Defense
-
-Mod updates / additions
-- AgriCraft-1.7.10-1.3.0-alpha5-b365.jar
-- Botania r1.5-164.jar
-- ChickenChunks-1.7.10-1.3.4.17-universal.jar
-- CoFHCore-[1.7.10]3.0.0RC2-195.jar
-- CoFHLib-[1.7.10]1.0.0B9-118.jar
-- funky-locomotion-1.7.10-beta-5a.jar
-- logisticspipes-0.8.3.103.jar
-- OpenBlocks-1.7.10-1.3-snapshot-567.jar
-- Pam's HarvestCraft 1.7.10g.jar
-- StevesAddons-1.7.10-0.8.0.jar
-- StorageDrawers-1.7.10-1.2.3.jar
-- ThermalDynamics-[1.7.10]1.0.0RC2-77.jar
-- ThermalExpansion-[1.7.10]4.0.0RC2-129.jar
-- ThermalFoundation-[1.7.10]1.0.0RC3-56.jar
-- ThermalSmeltery-1.7.10-1.1.1.jar
-=================================================
-0.2.0 beta3
-=================================================
-Mod updates / additions
-- forge-1.7.10-10.13.2.1291-universal.jar
-- ae2stuff-mc1710-0.1.5.13.jar
-- AgriCraft-1.7.10-1.3.0-alpha4-b358.jar
-- bdlib-mc1710-1.6.4.49.jar
-- buildcraft-6.3.7.jar
-- CoFHCore-[1.7.10]3.0.0RC1-181.jar
-- CoFHLib-[1.7.10]1.0.0B9-112.jar
-- CookieCore-1.7.10-1.3.1-5.jar
-- ExtraCells-1.7.10-2.2.55b85.jar
-- GalacticGreg-1.3.jar
-- gendustry-mc1710-1.4.7.64.jar
-- generators-mc1710-0.9.10.46.jar
-- gregtech_1.7.10-6.00.07.jar
-- IguanaTinkerTweaks-1.7.10-2.1.2.111.jar
-- InGameInfoXML-1.7.10-2.8.1.75-universal.jar
-- logisticspipes-0.8.3.102.jar
-- Mariculture-Deluxe-1.7.10-1.2.4d-15.jar
-- Minechem-1.7.10-5.0.5.387.jar
-- MineFactoryReloaded-[1.7.10]2.8.0RC7-71.jar
-- ModTweaker2-1.7.X-0.7.1.jar
-- neiaddons-mc1710-1.12.4.16.jar
-- NEIIntegration-MC1.7.10-1.0.7.jar
-- NetherOres-[1.7.10]2.3.0RC4-10.jar
-- PneumaticCraft-1.7.10-1.6.2-64-universal.jar
-- pressure-mc1710-1.0.6.60.jar
-- RedstoneArsenal-[1.7.10]1.1.0RC2-43.jar
-- rftools-2.50.jar
-- SimplyJetpacks-MC1.7.10-1.4.1.jar
-- TConstruct-1.7.10-1.8.2.build900.jar
-- ThermalDynamics-[1.7.10]1.0.0RC1-69.jar
-- ThermalExpansion-[1.7.10]4.0.0RC1-119.jar
-- ThermalFoundation-[1.7.10]1.0.0RC2-53.jar
-- TSteelworks-1.7.10-1.1.0-6.jar
-=================================================
-0.2.0 beta2
-=================================================
-Mod updates / additions
-- bdlib-mc1710-1.6.3.47.jar
-- Botania r1.5-163.jar
-- CoFHCore-[1.7.10]3.0.0B9-163.jar
-- CoFHLib-[1.7.10]1.0.0B9-104.jar
-- GalacticraftCore-1.7-3.0.8.266.jar
-- Galacticraft-Planets-1.7-3.0.8.266.jar
-- gendustry-mc1710-1.4.6.61.jar
-- generators-mc1710-0.9.9.43.jar
-- gregtech_1.7.10-6.00.03.jar
-- industrialcraft-2-2.2.680-experimental.jar
-- MicdoodleCore-1.7-3.0.8.266.jar
-- Minechem-1.7.10-5.0.5.386.jar
-- ModTweaker2-0.7.069.jar
-- NotEnoughResources-1.7.10-0.1.0.95.jar
-- OpenComputers-MC1.7.10-1.5.0.6-universal.jar
-- PneumaticCraft-1.7.10-1.6.1-62-universal.jar
-- pressure-mc1710-1.0.4.55.jar
-- rftools-2.42.jar
-- roguelike-1.7.10-1.3.6.jar
-- ThermalExpansion-[1.7.10]4.0.0B9-112.jar
-- ThermalFoundation-[1.7.10]1.0.0RC1-50.jar
-=================================================
-0.2.0 beta1
-=================================================
-Mod updates / additions
-- ae2stuff-mc1710-0.1.3.9.jar
-- AgriCraft-1.7.10-1.3.0-alpha3-b306.jar
-- bdlib-mc1710-1.6.2.41.jar
-- Botania r1.5-162.jar
-- buildcraft-6.3.6.jar
-- Chisel2-2.3.7.34.jar
-- CoFHCore-[1.7.10]3.0.0B9-155.jar
-- CoFHLib-[1.7.10]1.0.0B9-97.jar
-- compactmachines-1.7.10-1.17.jar
-- DynIMC-1.7.10-1.1.0.10-universal.jar
-- ElectricalAge_BETA-1.9_r46.jar
-- EnderIO-1.7.10-2.2.8.349.jar
-- ExtraCells-1.7.10-2.2.53b83.jar
-- forgeessentials-1.7.10-1.4.0-beta5-client.jar
-- GalacticGreg-1.2.jar
-- GalacticraftCore-1.7-3.0.8.265.jar
-- Galacticraft-Planets-1.7-3.0.8.265.jar
-- gendustry-mc1710-1.4.6.57.jar
-- generators-mc1710-0.9.9.40.jar
-- gregtech_1.7.10-6.00.02.jar
-- HungerOverhaul-1.7.10-beta.6.jenkins56.jar
-- IguanaTinkerTweaks-1.7.10-2.1.2.109.jar
-- industrialcraft-2-2.2.679-experimental.jar
-- INpureCore-[1.7.10]1.0.0B9-54.jar
-- Jabba-1.2.1_1.7.10.jar
-- logisticspipes-0.8.3.100.jar
-- Mariculture-Deluxe-1.7.10-1.2.4d-13.jar
-- MicdoodleCore-1.7-3.0.8.265.jar
-- Minechem-1.7.10-5.0.5.385.jar
-- MineFactoryReloaded-[1.7.10]2.8.0RC6-55.jar
-- neiaddons-mc1710-1.12.4.15.jar
-- NoMoreRecipeConflict-0.2(1.7.10).jar
-- NotEnoughResources-1.7.10-0.1.0.94.jar
-- OpenBlocks-1.7.10-1.3-snapshot-566.jar
-- OpenComputers-MC1.7.10-1.4.9.38-universal.jar
-- OpenEye-0.6-1.7.10-snapshot-142.jar
-- OpenModsLib-1.7.10-0.6-snapshot-315.jar
-- PneumaticCraft-1.7.10-1.5.6-59-universal.jar
-- pressure-mc1710-1.0.4.53.jar
-- ProjectRed-1.7.10-4.5.12.64-Base.jar
-- ProjectRed-1.7.10-4.5.12.64-Compat.jar
-- ProjectRed-1.7.10-4.5.12.64-Integration.jar
-- ProjectRed-1.7.10-4.5.12.64-Lighting.jar
-- RedstoneArsenal-[1.7.10]1.1.0RC1-41.jar
-- rftools-2.41.jar
-- StevesAddons-1.7.10-0.7.3.jar
-- TConstruct-1.7.10-1.8.2.build890.jar
-- ThermalExpansion-[1.7.10]4.0.0B9-109.jar
-- ThermalFoundation-[1.7.10]1.0.0RC1-49.jar
-- ttCore-MC1.7.10-0.1.0-66.jar
-- Waila-1.5.9_1.7.10.jar
-- WailaHarvestability-mc1.7.x-1.1.2.jar
-Changelog: 
-=================================================
-0.1.0 Initial Version 
-=================================================
-Many mods, many testing and many thanks to all my
-supporter, tester, programmer and changer.
-This wouldn't be possbile without you all!
-
+- AgriCraft-1.7.10-1.3.1.jar
+- BloodMagic-1.7.10-1.3.1-7.jar
+- Botania r1.5-169.jar
+- buildcraft-6.4.2.jar
+- CoFHCore-[1.7.10]3.0.0RC5-208.jar
+- ExtraCells-1.7.10-2.2.58b88.jar
+- gregtech_1.7.10-6.00.13.jar
+- industrialcraft-2-2.2.691-experimental.jar
+- Jabba-1.2.1a_1.7.10.jar
+- Mariculture-Deluxe-1.7.10-1.2.4f.jar
+- Minechem-1.7.10-5.0.5.393.jar
+- MineFactoryReloaded-[1.7.10]2.8.0RC8-86.jar
+- MobiusCore-1.2.4_1.7.10.jar
+- Opis-1.2.4a_1.7.10.jar
+- RedstoneArsenal-[1.7.10]1.1.0RC4-60.jar
+- rftools-2.55.jar
+- StorageDrawers-1.7.10-1.3.0.jar
+- ThermalDynamics-[1.7.10]1.0.0RC5-95.jar
+- ThermalExpansion-[1.7.10]4.0.0RC6-139.jar
+- ThermalFoundation-[1.7.10]1.0.0RC4-59.jar

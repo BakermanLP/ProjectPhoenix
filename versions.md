@@ -1,23 +1,22 @@
 ## mods
 * 1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar
 * ae2stuff-mc1710-0.1.6.14.jar
-* AgriCraft-1.7.10-1.3.0-b407.jar
+* AgriCraft-1.7.10-1.3.1.jar
 * AOBD-2.4.0.jar
 * AppleCore-mc1.7.10-1.1.0.jar
 * appliedenergistics2-rv2-beta-8.jar
 * Baubles-1.7.10-1.0.1.10.jar
 * bdlib-mc1710-1.6.5.52.jar
 * BiblioCraft[v1.9.2][MC1.7.10].jar
-* BloodMagic-1.7.10-1.3.1-5.jar
-* Botania r1.5-168.jar
-* buildcraft-6.4.1.jar
+* BloodMagic-1.7.10-1.3.1-7.jar
+* Botania r1.5-169.jar
+* buildcraft-6.4.2.jar
 * buildcraft-compat-6.4.0.jar
 * Carpenter's Blocks v3.3.5 - MC 1.7.10.jar
 * ChickenChunks-1.7.10-1.3.4.17-universal.jar
 * Chisel2-2.3.7.34.jar
 * CodeChickenCore-1.7.10-1.0.4.35-universal.jar
-* CoFHCore-[1.7.10]3.0.0RC2-201.jar
-* CoFHLib-[1.7.10]1.0.0RC1-119.jar
+* CoFHCore-[1.7.10]3.0.0RC5-208.jar
 * compactmachines-1.7.10-1.17.jar
 * CookieCore-1.7.10-1.3.1-5.jar
 * coroutil-1.1.2 for MC v1.7.10.jar
@@ -29,7 +28,7 @@
 * EnderStorage-1.7.10-1.4.5.27-universal.jar
 * EnderTech-1.7.10-0.3.0.364.jar
 * EnhancedPortals_1.7.10-universal-3.0.10.jar
-* ExtraCells-1.7.10-2.2.55b85.jar
+* ExtraCells-1.7.10-2.2.58b88.jar
 * extrautilities-1.2.2.jar
 * fastcraft-1.19.jar
 * forestry_1.7.10-3.4.0.7.jar
@@ -40,7 +39,7 @@
 * Galacticraft-Planets-1.7-3.0.8.270.jar
 * gendustry-mc1710-1.4.8.65.jar
 * generators-mc1710-0.9.11.48.jar
-* gregtech_1.7.10-6.00.11.jar
+* gregtech_1.7.10-6.00.13.jar
 * growthcraft-bamboo-1.7.10-2.1.0.jar
 * growthcraft-cellar-1.7.10-2.1.0a.jar
 * growthcraft-core-1.7.10-2.1.0a.jar
@@ -51,24 +50,24 @@
 * HungerOverhaul-1.7.10-beta.6.jenkins56.jar
 * IC2NuclearControl-2.1.2a.jar
 * IguanaTinkerTweaks-1.7.10-2.1.2.123.jar
-* industrialcraft-2-2.2.687-experimental.jar
+* industrialcraft-2-2.2.691-experimental.jar
 * InGameInfoXML-1.7.10-2.8.1.75-universal.jar
 * INpureCore-[1.7.10]1.0.0B9-54.jar
 * InventoryTweaks-1.59-dev-156.jar
 * ironchest-1.7.10-6.0.62.742-universal.jar
-* Jabba-1.2.1_1.7.10.jar
+* Jabba-1.2.1a_1.7.10.jar
 * logisticspipes-0.8.3.108.jar
 * LunatriusCore-1.7.10-1.1.2.21-universal.jar
 * malisiscore-1.7.10-0.10.5.jar
 * malisisdoors-1.7.10-1.4.3.jar
 * Mantle-1.7.10-0.3.2.jenkins187.jar
-* Mariculture-Deluxe-1.7.10-1.2.4e-21.jar
+* Mariculture-Deluxe-1.7.10-1.2.4f.jar
 * MicdoodleCore-1.7-3.0.8.270.jar
-* Minechem-1.7.10-5.0.5.392.jar
-* MineFactoryReloaded-[1.7.10]2.8.0RC7-81.jar
+* Minechem-1.7.10-5.0.5.393.jar
+* MineFactoryReloaded-[1.7.10]2.8.0RC8-86.jar
 * MineTweaker3-1.7.10-3.0.9C.jar
 * MmmMmmMmmMmm-1.6.jar
-* MobiusCore-1.2.3_1.7.10.jar
+* MobiusCore-1.2.4_1.7.10.jar
 * ModTweaker2-1.7.X-0.7.1.jar
 * natura-1.7.10-98.6a6cca1.jar
 * neiaddons-mc1710-1.12.4.16.jar
@@ -84,7 +83,7 @@
 * OpenEye-0.6-1.7.10-snapshot-142.jar
 * OpenModsLib-1.7.10-0.6-snapshot-315.jar
 * OpenModularTurrets-1.7.10-1.3.4-27.jar
-* Opis-1.2.3_1.7.10.jar
+* Opis-1.2.4a_1.7.10.jar
 * Pam's HarvestCraft 1.7.10g.jar
 * PneumaticCraft-1.7.10-1.6.3-65-universal.jar
 * pressure-mc1710-1.0.7.62.jar
@@ -93,9 +92,9 @@
 * ProjectRed-1.7.10-4.5.12.64-Integration.jar
 * ProjectRed-1.7.10-4.5.12.64-Lighting.jar
 * RandomThings-2.2.4.jar
-* RedstoneArsenal-[1.7.10]1.1.0RC2-49.jar
+* RedstoneArsenal-[1.7.10]1.1.0RC4-60.jar
 * ResourceLoader-1.0.jar
-* rftools-2.53.jar
+* rftools-2.55.jar
 * roguelike-1.7.10-1.3.6.jar
 * RPGAdvMod-1.0.0_1.7.10.jar
 * Ruins-1.7.10.jar
@@ -105,12 +104,12 @@
 * StevesCarts2.0.0.b18.jar
 * StevesFactoryManagerA93.jar
 * StevesWorkshop-0.5.1.jar
-* StorageDrawers-1.7.10-1.2.4.jar
+* StorageDrawers-1.7.10-1.3.0.jar
 * TabbyChat-1.7.10-1.11.2.2-fml.jar
 * TConstruct-1.7.10-1.8.3.build906.jar
-* ThermalDynamics-[1.7.10]1.0.0RC2-89.jar
-* ThermalExpansion-[1.7.10]4.0.0RC2-131.jar
-* ThermalFoundation-[1.7.10]1.0.0RC3-57.jar
+* ThermalDynamics-[1.7.10]1.0.0RC5-95.jar
+* ThermalExpansion-[1.7.10]4.0.0RC6-139.jar
+* ThermalFoundation-[1.7.10]1.0.0RC4-59.jar
 * ThermalSmeltery-1.7.10-1.1.1.jar
 * TiCTooltips-mc1.7.10-1.2.1.jar
 * TMechworks-1.7.10-0.2.13.96.jar
