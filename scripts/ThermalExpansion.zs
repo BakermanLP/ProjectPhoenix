@@ -10,15 +10,17 @@ mods.thermalexpansion.Sawmill.addRecipe(1600, <minecraft:planks:4>, <minecraft:s
 mods.thermalexpansion.Sawmill.addRecipe(1600, <minecraft:planks:5>, <minecraft:stick> * 6, <ThermalExpansion:material:512>, 25);
 
 #Resonant Flux Capacitor mit GT Pyrotheum
-# recipes.addShaped(<ThermalExpansion:capacitor:5>, [
-#     [ null, <minecraft:redstone>, null ],
-#     [ <ore:ingotEnderium>, <ThermalExpansion:capacitor:4>, <ore:ingotEnderium>],
-#     [ <minecraft:redstone>, <gregtech:gt.metaitem.01:2843>, <minecraft:redstone>]
-# ]);
+recipes.remove(<ThermalExpansion:capacitor:5>)
+recipes.addShaped(<ThermalExpansion:capacitor:5>, [
+   [ null, <minecraft:redstone>, null ],
+   [ <ore:ingotEnderium>, <ThermalExpansion:capacitor:4>, <ore:ingotEnderium>],
+   [ <minecraft:redstone>, <ore:dustPyrotheum>, <minecraft:redstone>]
+]);
 
 #Augment: Overclocked Modular Gearbox mit GT Pyrotheum
-#recipes.addShaped(<ThermalExpansion:augment:129>, [
-#    [ null, <ore:ingotGold>, null ],
-#    [ <ore:ingotBronze>, <ThermalExpansion:material:1>, <ore:ingotBronze> ],
-#    [ <gregtech:gt.metaitem.01:2843>, <ore:ingotGold>,<gregtech:gt.metaitem.01:2843> ]
-#]);
+recipes.remove(<ThermalExpansion:augment:129>)
+recipes.addShaped(<ThermalExpansion:augment:129>, [
+   [ null, <ore:ingotGold>, null ],
+   [ <ore:ingotBronze>, <ThermalExpansion:material:1>, <ore:ingotBronze> ],
+   [ <ore:dustPyrotheum>, <ore:ingotGold>,<ore:dustPyrotheum> ]
+]);
