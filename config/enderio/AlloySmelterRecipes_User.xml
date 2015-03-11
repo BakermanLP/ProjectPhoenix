@@ -37,6 +37,16 @@ ore dictionary.
       <output>
         <itemStack oreDictionary="ingotEnderium" number="2" />
       </output>
+    </recipe>
+    <recipe name="Fluxed ElectrumGT" energyCost="32000">
+      <input>
+        <itemStack oreDictionary="ingotElectrum" number="2" />
+        <itemStack modID="minecraft" itemName="redstone" number="4"/>
+        <itemStack modID="gregtech" itemName="gt.meta.dust" itemMeta="8212" number="1" />                   
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotElectrumFlux" number="2" />
+      </output>
     </recipe>    
   </recipeGroup> 
     
