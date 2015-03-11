@@ -10,7 +10,7 @@ mods.thermalexpansion.Sawmill.addRecipe(1600, <minecraft:planks:4>, <minecraft:s
 mods.thermalexpansion.Sawmill.addRecipe(1600, <minecraft:planks:5>, <minecraft:stick> * 6, <ThermalExpansion:material:512>, 25);
 
 #Resonant Flux Capacitor mit GT Pyrotheum
-recipes.remove(<ThermalExpansion:capacitor:5>)
+recipes.remove(<ThermalExpansion:capacitor:5>);
 recipes.addShaped(<ThermalExpansion:capacitor:5>, [
    [ null, <minecraft:redstone>, null ],
    [ <ore:ingotEnderium>, <ThermalExpansion:capacitor:4>, <ore:ingotEnderium>],
@@ -18,7 +18,7 @@ recipes.addShaped(<ThermalExpansion:capacitor:5>, [
 ]);
 
 #Augment: Overclocked Modular Gearbox mit GT Pyrotheum
-recipes.remove(<ThermalExpansion:augment:129>)
+recipes.remove(<ThermalExpansion:augment:129>);
 recipes.addShaped(<ThermalExpansion:augment:129>, [
    [ null, <ore:ingotGold>, null ],
    [ <ore:ingotBronze>, <ThermalExpansion:material:1>, <ore:ingotBronze> ],
