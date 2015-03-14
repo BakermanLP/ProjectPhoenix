@@ -1,8 +1,6 @@
 import minetweaker.data.IData;
 import minetweaker.item.IItemStack;
 
-recipes.remove(<ProjRed|Transmission:projectred.transmission.wire:*>);
-
 var wool = [
     null,
     <minecraft:wool:0>,
@@ -44,6 +42,7 @@ var wire = [
 ] as IItemStack[];
 
 for i, _ in wool {
+    recipes.remove(wire[i]);
     recipes.addShaped(wire[i] * 12, [
       [wool[i],<ore:ingotRedAlloy>,wool[i]],
       [wool[i],<ore:ingotRedAlloy>,wool[i]],
