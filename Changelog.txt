@@ -1,25 +1,38 @@
 Changelog: 
 =================================================
-Version 0.2.5
+Version 0.2.9a
 =================================================
 Mod updates / additions
-- AgriCraft-1.7.10-1.3.1.jar
-- BloodMagic-1.7.10-1.3.1-7.jar
-- Botania r1.5-169.jar
-- buildcraft-6.4.2.jar
-- CoFHCore-[1.7.10]3.0.0RC5-208.jar
-- ExtraCells-1.7.10-2.2.58b88.jar
-- gregtech_1.7.10-6.00.13.jar
-- industrialcraft-2-2.2.691-experimental.jar
-- Jabba-1.2.1a_1.7.10.jar
-- Mariculture-Deluxe-1.7.10-1.2.4f.jar
-- Minechem-1.7.10-5.0.5.393.jar
-- MineFactoryReloaded-[1.7.10]2.8.0RC8-86.jar
-- MobiusCore-1.2.4_1.7.10.jar
-- Opis-1.2.4a_1.7.10.jar
-- RedstoneArsenal-[1.7.10]1.1.0RC4-60.jar
-- rftools-2.55.jar
-- StorageDrawers-1.7.10-1.3.0.jar
-- ThermalDynamics-[1.7.10]1.0.0RC5-95.jar
-- ThermalExpansion-[1.7.10]4.0.0RC6-139.jar
-- ThermalFoundation-[1.7.10]1.0.0RC4-59.jar
+- appliedenergistics2-rv2-beta-13.jar
+=================================================
+Version 0.2.9
+=================================================
+Mod updates / additions
+- ae_Security-1.0.jar
+- appliedenergistics2-rv2-beta-11.jar
+- buildcraft-6.4.3.jar
+- CoFHCore-[1.7.10]3.0.0RC7-211.jar
+- EnderStorage-1.7.10-1.4.5.29-universal.jar
+- ExtraCells-1.7.10-2.2.59b89.jar
+- GalacticraftCore-1.7-3.0.9.294.jar
+- Galacticraft-Planets-1.7-3.0.9.294.jar
+- gendustry-mc1710-1.4.8.hotfix1.jar
+- generators-mc1710-0.9.11.hotfix1.jar
+- gregtech_1.7.10-6.00.19.jar
+- Mariculture-Deluxe-1.7.10-1.2.4.1a-43.jar
+- MicdoodleCore-1.7-3.0.9.294.jar
+- MineFactoryReloaded-[1.7.10]2.8.0RC8-91.jar
+- ModTweaker 2-0.7.5.jar
+- neiaddons-mc1710-1.12.5.17.jar
+- OpenComputers-MC1.7.10-1.5.3.10-universal.jar
+- RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar
+- rftools-2.61.jar
+- StevesAddons-1.7.10-0.9.7.jar
+- StorageDrawers-1.7.10-1.3.1.jar
+- TConstruct-1.7.10-1.8.3.build920.jar
+- ThermalDynamics-[1.7.10]1.0.0RC7-98.jar
+- ThermalExpansion-[1.7.10]4.0.0RC7-141.jar
+- ThermalFoundation-[1.7.10]1.0.0RC7-62.jar
+- ThermalSmeltery-1.7.10-1.1.2.jar
+- Tinkers-Defense-1.2.1.jar
+- TSteelworks-1.7.10-1.1.0-7.jar
