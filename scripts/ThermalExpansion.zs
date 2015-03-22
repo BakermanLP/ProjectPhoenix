@@ -1,3 +1,5 @@
+import drummer.utils.NBTUtils;
+
 # Pulverizer
 mods.thermalexpansion.Pulverizer.removeRecipe(<minecraft:glass>);
 
@@ -13,9 +15,16 @@ mods.thermalexpansion.Sawmill.addRecipe(1600, <minecraft:planks:5>, <minecraft:s
 recipes.remove(<ThermalExpansion:capacitor:5>);
 recipes.addShaped(<ThermalExpansion:capacitor:5>, [
    [ null, <minecraft:redstone>, null ],
-   [ <ore:ingotEnderium>, <ThermalExpansion:capacitor:4>, <ore:ingotEnderium>],
-   [ <minecraft:redstone>, <ore:dustPyrotheum>, <minecraft:redstone>]
-]);
+   [ <ore:ingotEnderium>, <ThermalExpansion:capacitor:4>.marked("capacitor"), <ore:ingotEnderium>],
+   [ <minecraft:redstone>, <ore:dustPyrotheum>, <minecraft:redstone>]],
+   function(output, inputs, crafting) {
+		val energy = NBTUtils.toInt(inputs.capacitor.tag.Energy);
+		if(energy==0){
+			return output;
+		}
+		return output.withTag({Energy: energy});
+	}
+);
 
 #Augment: Overclocked Modular Gearbox mit GT Pyrotheum
 recipes.remove(<ThermalExpansion:augment:129>);
