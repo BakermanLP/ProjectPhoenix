@@ -5,19 +5,19 @@
 * AgriCraft-1.7.10-1.3.1.jar
 * AOBD-2.5.0.jar
 * AppleCore-mc1.7.10-1.1.0.jar
-* appliedenergistics2-rv2-beta-16.jar
+* appliedenergistics2-rv2-beta-18.jar
 * Baubles-1.7.10-1.0.1.10.jar
 * bdlib-mc1710-1.7.0.68.jar
 * BiblioCraft[v1.10.2][MC1.7.10].jar
 * BloodMagic-1.7.10-1.3.1-7.jar
-* Botania r1.5-171.jar
+* Botania r1.5-172.jar
 * buildcraft-6.4.5.jar
 * buildcraft-compat-6.4.1.jar
 * Carpenter's Blocks v3.3.5 - MC 1.7.10.jar
 * ChickenChunks-1.7.10-1.3.4.19-universal.jar
 * Chisel2-2.3.8.35.jar
 * CodeChickenCore-1.7.10-1.0.4.35-universal.jar
-* CoFHCore-[1.7.10]3.0.0RC7-219.jar
+* CoFHCore-[1.7.10]3.0.0RC7-220.jar
 * compactmachines-1.7.10-1.17.jar
 * CookieCore-1.7.10-1.3.1-5.jar
 * coroutil-1.1.2 for MC v1.7.10.jar
@@ -39,7 +39,7 @@
 * GalacticraftCore-1.7-3.0.10.298.jar
 * Galacticraft-Planets-1.7-3.0.10.298.jar
 * gendustry-mc1710-1.4.9.74.jar
-* generators-mc1710-0.9.12.58.jar
+* generators-mc1710-0.9.12.59.jar
 * gregtech_1.7.10-6.00.24.jar
 * growthcraft-bamboo-1.7.10-2.1.0.jar
 * growthcraft-cellar-1.7.10-2.1.0a.jar
@@ -65,7 +65,7 @@
 * Mariculture-Deluxe-1.7.10-1.2.4.1a-49.jar
 * MicdoodleCore-1.7-3.0.10.298.jar
 * Minechem-1.7.10-5.0.5.394.jar
-* MineFactoryReloaded-[1.7.10]2.8.0RC8-97.jar
+* MineFactoryReloaded-[1.7.10]2.8.0RC8-99.jar
 * MineTweaker3-1.7.10-3.0.9C.jar
 * MmmMmmMmmMmm-1.6.jar
 * MobiusCore-1.2.3_1.7.10.jar
@@ -88,13 +88,13 @@
 * Opis-1.2.3_1.7.10.jar
 * Pam's HarvestCraft 1.7.10g.jar
 * PneumaticCraft-1.7.10-1.6.3-65-universal.jar
-* pressure-mc1710-1.1.0.84.jar
+* pressure-mc1710-1.1.0.86.jar
 * ProjectRed-1.7.10-4.5.15.75-Base.jar
 * ProjectRed-1.7.10-4.5.15.75-Compat.jar
 * ProjectRed-1.7.10-4.5.15.75-Integration.jar
 * ProjectRed-1.7.10-4.5.15.75-Lighting.jar
 * RandomThings-2.2.4.jar
-* RedstoneArsenal-[1.7.10]1.1.0RC7-68.jar
+* RedstoneArsenal-[1.7.10]1.1.0RC7-69.jar
 * ResourceLoader-1.0.jar
 * rftools-2.71.jar
 * roguelike-1.7.10-1.3.6.3.jar
@@ -111,7 +111,7 @@
 * TConstruct-1.7.10-1.8.3.build921.jar
 * ThermalDynamics-[1.7.10]1.0.0RC7-101.jar
 * ThermalExpansion-[1.7.10]4.0.0RC7-149.jar
-* ThermalFoundation-[1.7.10]1.0.0RC7-64.jar
+* ThermalFoundation-[1.7.10]1.0.0RC7-65.jar
 * ThermalSmeltery-1.7.10-1.1.2.jar
 * TiCTooltips-mc1.7.10-1.2.1.jar
 * Tinkers-Defense-1.2.1.jar

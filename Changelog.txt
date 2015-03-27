@@ -1,5 +1,17 @@
 Changelog: 
 =================================================
+Version 0.3.3
+=================================================
+Mod updates / additions
+- appliedenergistics2-rv2-beta-18.jar
+- Botania r1.5-172.jar
+- CoFHCore-[1.7.10]3.0.0RC7-220.jar
+- generators-mc1710-0.9.12.59.jar
+- MineFactoryReloaded-[1.7.10]2.8.0RC8-99.jar
+- pressure-mc1710-1.1.0.86.jar
+- RedstoneArsenal-[1.7.10]1.1.0RC7-69.jar
+- ThermalFoundation-[1.7.10]1.0.0RC7-65.jar
+=================================================
 Version 0.3.1
 =================================================
 Mod updates / additions
