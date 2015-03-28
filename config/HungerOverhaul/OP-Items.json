@@ -1,0 +1,10 @@
+{
+    // Nerf Epic Bacon
+    "foods": [
+        {
+            "name": "harvestcraft:epicbaconItem",
+            "hunger": 5,
+            "saturationModifier": 0.25
+        }
+    ]
+}

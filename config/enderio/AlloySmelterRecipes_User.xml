@@ -31,11 +31,21 @@ ore dictionary.
       <recipe name="EnderiumGT" energyCost="50000">
       <input>
         <itemStack oreDictionary="ingotEnderiumBase" number="2" />
-        <itemStack modID="gregtech" itemName="gt.metaitem.01" itemMeta="2843" number="1" />
+        <itemStack modID="gregtech" itemName="gt.meta.dust" itemMeta="8212" number="1" />
         <itemStack modID="minecraft" itemName="ender_pearl" number="2"/>             
       </input>
       <output>
         <itemStack oreDictionary="ingotEnderium" number="2" />
+      </output>
+    </recipe>
+    <recipe name="Fluxed ElectrumGT" energyCost="32000">
+      <input>
+        <itemStack oreDictionary="ingotElectrum" number="2" />
+        <itemStack modID="minecraft" itemName="redstone" number="4"/>
+        <itemStack modID="gregtech" itemName="gt.meta.dust" itemMeta="8212" number="1" />                   
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotElectrumFlux" number="2" />
       </output>
     </recipe>    
   </recipeGroup> 
