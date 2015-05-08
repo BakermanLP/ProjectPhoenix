@@ -52,7 +52,7 @@ var liquidNickel = <liquid:nickel.molten>;
 var liquidPlatinum = <liquid:platinum.molten>;
 var liquidElectrum = <liquid:electrum.molten>;
 var liquidInvar = <liquid:invar.molten>;
-var liquidZinc = <liquid:zinc>;
+# var liquidZinc = <liquid:zinc>;
 
 var blockIron = <minecraft:iron_block>;
 var blockGold = <minecraft:gold_block>;
