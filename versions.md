@@ -1,5 +1,6 @@
 ## Forge
 * forge-1.7.10-10.13.3.1403-1.7.10-universal.jar
+
 ## Mods
 * 1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar
 * advanced-machines-59.0.2.jar
@@ -93,6 +94,7 @@
 * OpenModularTurrets-1.7.10-1.3.4-27.jar
 * Opis-1.2.5_1.7.10.jar
 * Pam's HarvestCraft 1.7.10h.jar
+* PlayerAPI-1.7.10-1.2.jar
 * PneumaticCraft-1.7.10-1.6.8-72-universal.jar
 * pressure-1.1.2.96-mc1.7.10.jar
 * ProjectRed-1.7.10-4.6.0.79-Base.jar
