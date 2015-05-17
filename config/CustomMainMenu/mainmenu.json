@@ -155,26 +155,36 @@
         }        
     },
     "texts": {
-        "mojang": {
-            "text": "",
-            "posX": -205,
-            "posY": -10,
-            "color": -1,
-            "alignment": "bottom_right"
-        },
-        "packName": {
-            "text": "§4Project Phoenix §e0.3.3",
+
+        "forgeversion":
+        {
+          "text": "FML #forgeversion#",
             "posX": 2,
             "posY": -20,
             "color": -1,
             "alignment": "bottom_left"
         },
-        "packAuthor": {
-            "text": "§wBy Community and BakermanLP",
+        "mojang":
+        {
+          "text" : "Copyright Mojang AB. Do not distribute!",
             "posX": 2,
             "posY": -10,
             "color": -1,
             "alignment": "bottom_left"
+        },
+        "packName": {
+          "text": "§4Project Phoenix §e0.4.1",
+          "posX" : -200,
+          "posY" : -20,
+          "color" : -1,
+          "alignment" : "bottom_right"
+        },
+        "packAuthor": {
+          "text": "§wBy Community and BakermanLP",
+          "posX" : -200,
+          "posY" : -10,
+          "color" : -1,
+          "alignment" : "bottom_right"
         }
     },    
     
@@ -187,7 +197,7 @@
             "color" : -256,
             "alignment" : "top_right"
         },
-	"background":
+    "background":
         {
             "image" : "",
             "slideshow":

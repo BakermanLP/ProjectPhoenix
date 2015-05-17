@@ -147,19 +147,9 @@ var lensConvex = <minechem:minechemOpticalMicroscopeLens:1>;
 var lensMicroscope = <minechem:minechemOpticalMicroscopeLens:2>;
 var stickBlackSteel = <ore:stickBlackSteel>;
 var plateBlackSteel = <ore:plateBlackSteel>;
-#var plateStainlessSteel = <gregtech:gt.metaitem.01:17306>;
-#var plateBlackBronze = <gregtech:gt.metaitem.01:17352>;
-#var plateLead = <gregtech:gt.metaitem.01:17089>;
-#var plateTungstenSteel = <gregtech:gt.metaitem.01:17316>;
-#var plateBeryllium = <gregtech:gt.metaitem.01:17008>;
-#var motorMV = <gregtech:gt.metaitem.01:32601>;
-#var motorHV = <gregtech:gt.metaitem.01:32602>;
-#var sensorMV = <gregtech:gt.metaitem.01:32691>;
-#var sensorHV = <gregtech:gt.metaitem.01:32692>;
-#var emitterMV = <gregtech:gt.metaitem.01:32681>;
-#var emitterHV = <gregtech:gt.metaitem.01:32682>;
-#var robotarmMV = <gregtech:gt.metaitem.01:32651>;
-#var robotarmHV = <gregtech:gt.metaitem.01:32652>;
+var plateDenseLead = <ore:plateDenseLead>;
+var plateDenseIron = <ore:plateDenseIron>;
+var plateDenseSteel = <ore:plateDenseSteel>;
 var producerRF = <ThermalExpansion:Cell:1>;
 var elementPB = <minechem:minechemElement:81>;
 var microscope = <minechem:tile.opticalMicroscope>;
@@ -167,56 +157,68 @@ var decomposer = <minechem:tile.chemicalDecomposer>;
 var synthesizer = <minechem:tile.chemicalSynthesizer>;
 var fusionwall = <minechem:tile.fusionWall>;
 var tungstenplating = <minechem:tile.fusionWall:1>;
+var redstoneReciptionCoil = <ThermalExpansion:material:1>;
+var atomicManipulator = <minechem:minechemAtomicManipulator>;
 
 ## Lense
-recipes.remove(lensConcave);
+#recipes.remove(lensConcave);
 #recipes.addShaped(lensConcave, [
 #    [toolFile],
 #    [lenseGlass]
 #]);
 #
-recipes.remove(lensConvex);
+#recipes.remove(lensConvex);
 #recipes.addShaped(lensConvex, [
 #    [lenseGlass],
 #    [toolFile]
 #]);
 #
 ## Microscope
-recipes.remove(microscope);
+#recipes.remove(microscope);
 #recipes.addShaped(microscope, [
 #  [null, lensMicroscope, stickBlackSteel],
 #  [null, lenseGlass, stickBlackSteel],
 #  [plateBlackSteel, plateBlackSteel, plateBlackSteel]
 #]);
 #
+## Atomic Manipulator
+recipes.remove(<minechem:minechemAtomicManipulator>);
+recipes.addShaped(<minechem:minechemAtomicManipulator> * 1, [
+    [<ore:circuitBasic>, <ore:cableRedNet>, <ore:circuitBasic>], 
+    [<EnderIO:itemBasicCapacitor:1>, <ore:oc:cpu1>, <EnderIO:itemBasicCapacitor:1>], 
+    [<ore:waferBasic>, <ThermalExpansion:augment>, <GalacticraftCore:item.basicItem:13>]
+]);
+
 ## Decomposer
 recipes.remove(decomposer);
-#recipes.addShaped(decomposer, [
-#  [plateStainlessSteel, robotarmMV, plateStainlessSteel],
-#  [sensorMV, producerRF, emitterMV],
-#  [plateStainlessSteel, motorMV, plateStainlessSteel]
-#]);
+recipes.addShaped(<minechem:tile.chemicalDecomposer> * 1, [
+    [plateDenseIron, <ThermalExpansion:capacitor:3>, plateDenseIron], 
+    [plateDenseIron, atomicManipulator, plateDenseIron], 
+    [plateDenseIron, redstoneReciptionCoil, plateDenseIron]
+]);
+
 #
 ## Synthesiser
 recipes.remove(synthesizer);
-#recipes.addShaped(synthesizer, [
-#  [plateBlackBronze, robotarmHV, plateBlackBronze],
-#  [sensorHV, producerRF, emitterHV],
-#  [plateBlackBronze, motorHV, plateBlackBronze]
-#]);
+recipes.addShaped(<minechem:tile.chemicalSynthesizer> * 1, [
+    [plateDenseSteel, <ThermalExpansion:capacitor:4>, plateDenseSteel], 
+    [plateDenseSteel, <minechem:minechemAtomicManipulator> * 1, plateDenseSteel], 
+    [plateDenseSteel, redstoneReciptionCoil, plateDenseSteel]]);
+
 #
 ## Tungsten Plating:
 recipes.remove(tungstenplating);
-#recipes.addShaped(tungstenplating * 4, [
-#  [plateLead, plateTungstenSteel, plateLead],
-#  [plateLead, plateBeryllium, plateLead],
-#  [plateLead, plateTungstenSteel, plateLead]
-#]);
+recipes.addShaped(<minechem:tile.fusionWall:1> * 16, [
+    [plateDenseLead, <minechem:minechemElement:74> * 1, plateDenseLead], 
+    [plateDenseLead, <minechem:minechemElement:4> * 1, plateDenseLead], 
+    [plateDenseLead, <minechem:minechemElement:74> * 1, plateDenseLead]
+]);
+
 #
-## Fusion Wall:
+# Fusion Wall:
 recipes.remove(fusionwall);
-#recipes.addShaped(fusionwall * 4, [
-#  [plateLead, elementPB, plateLead],
-#  [plateLead, elementPB, plateLead],
-#  [plateLead, elementPB, plateLead]
-#]);
+recipes.addShaped(fusionwall * 4, [
+  [plateDenseLead, elementPB, plateDenseLead],
+  [plateDenseLead, elementPB, plateDenseLead],
+  [plateDenseLead, elementPB, plateDenseLead]
+]);

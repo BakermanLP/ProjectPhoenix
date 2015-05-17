@@ -312,25 +312,25 @@
 
 ########## Fixes for GT5 to GT6 migration ##########
 
-var plasticSheet = <gregtech:gt.meta.plate:8218>;
-var dustPlastic = <ore:dustPlastic>;
+# var plasticSheet = <gregtech:gt.meta.plate:8218>;
+# var dustPlastic = <ore:dustPlastic>;
 
-recipes.remove(plasticSheet);
+# recipes.remove(plasticSheet);
 
 # Only 2 Plates per 4 Dusts
-recipes.addShaped(plasticSheet * 2, [
-    [ dustPlastic, dustPlastic, null ],
-    [ dustPlastic, dustPlastic, null ],
-    [null, null, null,]
-]);
+# recipes.addShaped(plasticSheet * 2, [
+#     [ dustPlastic, dustPlastic, null ],
+#     [ dustPlastic, dustPlastic, null ],
+#     [null, null, null,]
+# ]);
 
 # Block of Plastic 
-recipes.addShapeless( plasticSheet * 9, [<gregtech:gt.meta.storage.plate:8218>]);
+# recipes.addShapeless( plasticSheet * 9, [<gregtech:gt.meta.storage.plate:8218>]);
 
 # Crate
-recipes.addShaped(plasticSheet * 16, [
-    [ <ore:craftingToolCrowbar>, null, null ],
-    [ <gregtech:gt.meta.crate.plate:8218>, null, null ],
-    [null, null, null,]
-]);
+# recipes.addShaped(plasticSheet * 16, [
+#     [ <ore:craftingToolCrowbar>, null, null ],
+#     [ <gregtech:gt.meta.crate.plate:8218>, null, null ],
+#     [null, null, null,]
+# ]);
 
